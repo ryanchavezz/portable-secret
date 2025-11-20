@@ -1,0 +1,2032 @@
+Year,Start Date,End Date,Primal Sign
+1900,Jan 01,Jan 19,Spider
+1900,Jan 20,Jan 30,Pufferfish
+1900,Jan 31,Feb 19,Meerkat
+1900,Feb 20,Mar 20,Lemming
+1900,Mar 21,Apr 19,Piranha
+1900,Apr 20,May 20,Squirrel
+1900,May 21,Jun 21,Chipmunk
+1900,Jun 22,Jul 21,Seahorse
+1900,Jul 22,Aug 22,Otter
+1900,Aug 23,Sep 22,Mouse
+1900,Sep 23,Oct 23,Vulture
+1900,Oct 24,Nov 21,Anaconda
+1900,Nov 22,Dec 21,Skunk
+1900,Dec 22,Dec 31,Aardvark
+1901,Jan 01,Jan 19,Aardvark
+1901,Jan 20,Feb 18,Meerkat
+1901,Feb 19,Feb 19,Walrus
+1901,Feb 20,Mar 20,Moose
+1901,Mar 21,Apr 19,Hippopotamus
+1901,Apr 20,May 20,Yak
+1901,May 21,Jun 21,Coyote
+1901,Jun 22,Jul 21,Black Bear
+1901,Jul 22,Aug 22,Sun Bear
+1901,Aug 23,Sep 22,Sea Star
+1901,Sep 23,Oct 23,Elephant
+1901,Oct 24,Nov 21,Platypus
+1901,Nov 22,Dec 21,Raccoon
+1901,Dec 22,Dec 31,Ant
+1902,Jan 01,Jan 19,Ant
+1902,Jan 20,Feb 07,Walrus
+1902,Feb 08,Feb 19,Panther
+1902,Feb 20,Mar 20,Stingray
+1902,Mar 21,Apr 19,Rhinoceros
+1902,Apr 20,May 20,Wolf
+1902,May 21,Jun 21,Chimpanzee
+1902,Jun 22,Jul 21,Vampire Bat
+1902,Jul 22,Aug 22,Wolverine
+1902,Aug 23,Sep 22,Narwhal
+1902,Sep 23,Oct 23,Tasmanian Devil
+1902,Oct 24,Nov 21,Honey Badger
+1902,Nov 22,Dec 21,Mongoose
+1902,Dec 22,Dec 31,Komodo Dragon
+1903,Jan 01,Jan 19,Komodo Dragon
+1903,Jan 20,Jan 28,Panther
+1903,Jan 29,Feb 19,Sloth
+1903,Feb 20,Mar 20,Silkworm
+1903,Mar 21,Apr 19,Llama
+1903,Apr 20,May 20,Hedgehog
+1903,May 21,Jun 21,Toucan
+1903,Jun 22,Jul 21,Turtle
+1903,Jul 22,Aug 22,Angora Rabbit
+1903,Aug 23,Sep 22,Earthworm
+1903,Sep 23,Oct 23,Butterfly
+1903,Oct 24,Nov 21,Koala
+1903,Nov 22,Dec 21,Sugar Glider
+1903,Dec 22,Dec 31,Weaver Finch
+1904,Jan 01,Jan 19,Weaver Finch
+1904,Jan 20,Feb 15,Sloth
+1904,Feb 16,Feb 19,Leopard
+1904,Feb 20,Mar 20,Firefly
+1904,Mar 21,Apr 19,Tyrannosaurus Rex
+1904,Apr 20,May 20,Rattlesnake
+1904,May 21,Jun 21,Hummingbird
+1904,Jun 22,Jul 21,Hornet
+1904,Jul 22,Aug 22,Orca
+1904,Aug 23,Sep 22,Polar Bear
+1904,Sep 23,Oct 23,Porcupine
+1904,Oct 24,Nov 21,Jaguar
+1904,Nov 22,Dec 21,Whale
+1904,Dec 22,Dec 31,Eagle
+1905,Jan 01,Jan 19,Eagle
+1905,Jan 20,Feb 03,Leopard
+1905,Feb 04,Feb 19,Boa Constrictor
+1905,Feb 20,Mar 20,Frog
+1905,Mar 21,Apr 19,Praying Mantis
+1905,Apr 20,May 20,Jackal
+1905,May 21,Jun 21,Lemur
+1905,Jun 22,Jul 21,Snail
+1905,Jul 22,Aug 22,Fox
+1905,Aug 23,Sep 22,Jellyfish
+1905,Sep 23,Oct 23,Ladybug
+1905,Oct 24,Nov 21,Anglerfish
+1905,Nov 22,Dec 21,Tarantula
+1905,Dec 22,Dec 31,Alligator
+1906,Jan 01,Jan 19,Alligator
+1906,Jan 20,Jan 24,Boa Constrictor
+1906,Jan 25,Feb 19,Unicorn
+1906,Feb 20,Mar 20,Gecko
+1906,Mar 21,Apr 19,Hammerhead Shark
+1906,Apr 20,May 20,Kangaroo
+1906,May 21,Jun 21,Great White Shark
+1906,Jun 22,Jul 21,Hermit Crab
+1906,Jul 22,Aug 22,Hyena
+1906,Aug 23,Sep 22,Giraffe
+1906,Sep 23,Oct 23,Goose
+1906,Oct 24,Nov 21,Dragonfly
+1906,Nov 22,Dec 21,Dove
+1906,Dec 22,Dec 31,Salmon
+1907,Jan 01,Jan 19,Salmon
+1907,Jan 20,Feb 12,Unicorn
+1907,Feb 13,Feb 19,Handfish
+1907,Feb 20,Mar 20,Leafy Seadragon
+1907,Mar 21,Apr 19,Catfish
+1907,Apr 20,May 20,Buffalo
+1907,May 21,Jun 21,Centipede
+1907,Jun 22,Jul 21,Duck
+1907,Jul 22,Aug 22,Swan
+1907,Aug 23,Sep 22,Flamingo
+1907,Sep 23,Oct 23,Clownfish
+1907,Oct 24,Nov 21,Panda
+1907,Nov 22,Dec 21,Tortoise
+1907,Dec 22,Dec 31,Mole
+1908,Jan 01,Jan 19,Mole
+1908,Jan 20,Feb 01,Handfish
+1908,Feb 02,Feb 19,Dolphin
+1908,Feb 20,Mar 20,Cheetah
+1908,Mar 21,Apr 19,Gorilla
+1908,Apr 20,May 20,Ostrich
+1908,May 21,Jun 21,Seal
+1908,Jun 22,Jul 21,Emperor Tamarin
+1908,Jul 22,Aug 22,Ferret
+1908,Aug 23,Sep 22,Penguin
+1908,Sep 23,Oct 23,Axolotl
+1908,Oct 24,Nov 21,Raven
+1908,Nov 22,Dec 21,Roadrunner
+1908,Dec 22,Dec 31,Woodpecker
+1909,Jan 01,Jan 19,Woodpecker
+1909,Jan 20,Jan 21,Dolphin
+1909,Jan 22,Feb 19,Bird-of-Paradise
+1909,Feb 20,Mar 20,Ocelot
+1909,Mar 21,Apr 19,Goldfinch
+1909,Apr 20,May 20,Beaver
+1909,May 21,Jun 21,Parrot
+1909,Jun 22,Jul 21,Iguana
+1909,Jul 22,Aug 22,Peacock
+1909,Aug 23,Sep 22,Corgi
+1909,Sep 23,Oct 23,Pelican
+1909,Oct 24,Nov 21,Owl
+1909,Nov 22,Dec 21,Swordfish
+1909,Dec 22,Dec 31,Bee
+1910,Jan 01,Jan 19,Bee
+1910,Jan 20,Feb 09,Bird-of-Paradise
+1910,Feb 10,Feb 19,Chameleon
+1910,Feb 20,Mar 20,Tarsier
+1910,Mar 21,Apr 19,Doberman Pinscher
+1910,Apr 20,May 20,Seagull
+1910,May 21,Jun 21,Deer
+1910,Jun 22,Jul 21,Pit Bull
+1910,Jul 22,Aug 22,Shih Tzu
+1910,Aug 23,Sep 22,Salamander
+1910,Sep 23,Oct 23,Crane
+1910,Oct 24,Nov 21,Octopus
+1910,Nov 22,Dec 21,Golden Retriever
+1910,Dec 22,Dec 31,Boxer
+1911,Jan 01,Jan 19,Boxer
+1911,Jan 20,Jan 29,Chameleon
+1911,Jan 30,Feb 19,Pufferfish
+1911,Feb 20,Mar 20,Zebra
+1911,Mar 21,Apr 19,Dodo
+1911,Apr 20,May 20,Wombat
+1911,May 21,Jun 21,Cricket
+1911,Jun 22,Jul 21,Lobster
+1911,Jul 22,Aug 22,Quetzal
+1911,Aug 23,Sep 22,Gazelle
+1911,Sep 23,Oct 23,Marmot
+1911,Oct 24,Nov 21,Squid
+1911,Nov 22,Dec 21,Camel
+1911,Dec 22,Dec 31,Spider
+1912,Jan 01,Jan 19,Spider
+1912,Jan 20,Feb 17,Pufferfish
+1912,Feb 18,Feb 19,Meerkat
+1912,Feb 20,Mar 20,Lemming
+1912,Mar 21,Apr 19,Piranha
+1912,Apr 20,May 20,Squirrel
+1912,May 21,Jun 21,Chipmunk
+1912,Jun 22,Jul 21,Seahorse
+1912,Jul 22,Aug 22,Otter
+1912,Aug 23,Sep 22,Mouse
+1912,Sep 23,Oct 23,Vulture
+1912,Oct 24,Nov 21,Anaconda
+1912,Nov 22,Dec 21,Skunk
+1912,Dec 22,Dec 31,Aardvark
+1913,Jan 01,Jan 19,Aardvark
+1913,Jan 20,Feb 05,Meerkat
+1913,Feb 06,Feb 19,Walrus
+1913,Feb 20,Mar 20,Moose
+1913,Mar 21,Apr 19,Hippopotamus
+1913,Apr 20,May 20,Yak
+1913,May 21,Jun 21,Coyote
+1913,Jun 22,Jul 21,Black Bear
+1913,Jul 22,Aug 22,Sun Bear
+1913,Aug 23,Sep 22,Sea Star
+1913,Sep 23,Oct 23,Elephant
+1913,Oct 24,Nov 21,Platypus
+1913,Nov 22,Dec 21,Raccoon
+1913,Dec 22,Dec 31,Ant
+1914,Jan 01,Jan 19,Ant
+1914,Jan 20,Jan 25,Walrus
+1914,Jan 26,Feb 19,Panther
+1914,Feb 20,Mar 20,Stingray
+1914,Mar 21,Apr 19,Rhinoceros
+1914,Apr 20,May 20,Wolf
+1914,May 21,Jun 21,Chimpanzee
+1914,Jun 22,Jul 21,Vampire Bat
+1914,Jul 22,Aug 22,Wolverine
+1914,Aug 23,Sep 22,Narwhal
+1914,Sep 23,Oct 23,Tasmanian Devil
+1914,Oct 24,Nov 21,Honey Badger
+1914,Nov 22,Dec 21,Mongoose
+1914,Dec 22,Dec 31,Komodo Dragon
+1915,Jan 01,Jan 19,Komodo Dragon
+1915,Jan 20,Feb 13,Panther
+1915,Feb 14,Feb 19,Sloth
+1915,Feb 20,Mar 20,Silkworm
+1915,Mar 21,Apr 19,Llama
+1915,Apr 20,May 20,Hedgehog
+1915,May 21,Jun 21,Toucan
+1915,Jun 22,Jul 21,Turtle
+1915,Jul 22,Aug 22,Angora Rabbit
+1915,Aug 23,Sep 22,Earthworm
+1915,Sep 23,Oct 23,Butterfly
+1915,Oct 24,Nov 21,Koala
+1915,Nov 22,Dec 21,Sugar Glider
+1915,Dec 22,Dec 31,Weaver Finch
+1916,Jan 01,Jan 19,Weaver Finch
+1916,Jan 20,Feb 02,Sloth
+1916,Feb 03,Feb 19,Leopard
+1916,Feb 20,Mar 20,Firefly
+1916,Mar 21,Apr 19,Tyrannosaurus Rex
+1916,Apr 20,May 20,Rattlesnake
+1916,May 21,Jun 21,Hummingbird
+1916,Jun 22,Jul 21,Hornet
+1916,Jul 22,Aug 22,Orca
+1916,Aug 23,Sep 22,Polar Bear
+1916,Sep 23,Oct 23,Porcupine
+1916,Oct 24,Nov 21,Jaguar
+1916,Nov 22,Dec 21,Whale
+1916,Dec 22,Dec 31,Eagle
+1917,Jan 01,Jan 19,Eagle
+1917,Jan 20,Jan 22,Leopard
+1917,Jan 23,Feb 19,Boa Constrictor
+1917,Feb 20,Mar 20,Frog
+1917,Mar 21,Apr 19,Praying Mantis
+1917,Apr 20,May 20,Jackal
+1917,May 21,Jun 21,Lemur
+1917,Jun 22,Jul 21,Snail
+1917,Jul 22,Aug 22,Fox
+1917,Aug 23,Sep 22,Jellyfish
+1917,Sep 23,Oct 23,Ladybug
+1917,Oct 24,Nov 21,Anglerfish
+1917,Nov 22,Dec 21,Tarantula
+1917,Dec 22,Dec 31,Alligator
+1918,Jan 01,Jan 19,Alligator
+1918,Jan 20,Feb 10,Boa Constrictor
+1918,Feb 11,Feb 19,Unicorn
+1918,Feb 20,Mar 20,Gecko
+1918,Mar 21,Apr 19,Hammerhead Shark
+1918,Apr 20,May 20,Kangaroo
+1918,May 21,Jun 21,Great White Shark
+1918,Jun 22,Jul 21,Hermit Crab
+1918,Jul 22,Aug 22,Hyena
+1918,Aug 23,Sep 22,Giraffe
+1918,Sep 23,Oct 23,Goose
+1918,Oct 24,Nov 21,Dragonfly
+1918,Nov 22,Dec 21,Dove
+1918,Dec 22,Dec 31,Salmon
+1919,Jan 01,Jan 19,Salmon
+1919,Jan 20,Jan 31,Unicorn
+1919,Feb 01,Feb 19,Handfish
+1919,Feb 20,Mar 20,Leafy Seadragon
+1919,Mar 21,Apr 19,Catfish
+1919,Apr 20,May 20,Buffalo
+1919,May 21,Jun 21,Centipede
+1919,Jun 22,Jul 21,Duck
+1919,Jul 22,Aug 22,Swan
+1919,Aug 23,Sep 22,Flamingo
+1919,Sep 23,Oct 23,Clownfish
+1919,Oct 24,Nov 21,Panda
+1919,Nov 22,Dec 21,Tortoise
+1919,Dec 22,Dec 31,Mole
+1920,Jan 01,Jan 19,Mole
+1920,Jan 20,Feb 19,Handfish
+1920,Feb 20,Mar 20,Dolphin
+1920,Mar 21,Apr 19,Cheetah
+1920,Apr 20,May 20,Gorilla
+1920,May 21,Jun 21,Ostrich
+1920,Jun 22,Jul 21,Seal
+1920,Jul 22,Aug 22,Emperor Tamarin
+1920,Aug 23,Sep 22,Ferret
+1920,Sep 23,Oct 23,Penguin
+1920,Oct 24,Nov 21,Axolotl
+1920,Nov 22,Dec 21,Raven
+1920,Dec 22,Dec 31,Roadrunner
+1921,Jan 01,Jan 19,Woodpecker
+1921,Jan 20,Feb 07,Dolphin
+1921,Feb 08,Feb 19,Bird-of-Paradise
+1921,Feb 20,Mar 20,Ocelot
+1921,Mar 21,Apr 19,Goldfinch
+1921,Apr 20,May 20,Beaver
+1921,May 21,Jun 21,Parrot
+1921,Jun 22,Jul 21,Iguana
+1921,Jul 22,Aug 22,Peacock
+1921,Aug 23,Sep 22,Corgi
+1921,Sep 23,Oct 23,Pelican
+1921,Oct 24,Nov 21,Owl
+1921,Nov 22,Dec 21,Swordfish
+1921,Dec 22,Dec 31,Bee
+1922,Jan 01,Jan 19,Bee
+1922,Jan 20,Jan 27,Bird-of-Paradise
+1922,Jan 28,Feb 19,Chameleon
+1922,Feb 20,Mar 20,Tarsier
+1922,Mar 21,Apr 19,Doberman Pinscher
+1922,Apr 20,May 20,Seagull
+1922,May 21,Jun 21,Deer
+1922,Jun 22,Jul 21,Pit Bull
+1922,Jul 22,Aug 22,Shih Tzu
+1922,Aug 23,Sep 22,Salamander
+1922,Sep 23,Oct 23,Crane
+1922,Oct 24,Nov 21,Octopus
+1922,Nov 22,Dec 21,Golden Retriever
+1922,Dec 22,Dec 31,Boxer
+1923,Jan 01,Jan 19,Boxer
+1923,Jan 20,Feb 15,Chameleon
+1923,Feb 16,Feb 19,Pufferfish
+1923,Feb 20,Mar 20,Zebra
+1923,Mar 21,Apr 19,Dodo
+1923,Apr 20,May 20,Wombat
+1923,May 21,Jun 21,Cricket
+1923,Jun 22,Jul 21,Lobster
+1923,Jul 22,Aug 22,Quetzal
+1923,Aug 23,Sep 22,Gazelle
+1923,Sep 23,Oct 23,Marmot
+1923,Oct 24,Nov 21,Squid
+1923,Nov 22,Dec 21,Camel
+1923,Dec 22,Dec 31,Spider
+1924,Jan 01,Jan 19,Spider
+1924,Jan 20,Feb 04,Pufferfish
+1924,Feb 05,Feb 19,Meerkat
+1924,Feb 20,Mar 20,Lemming
+1924,Mar 21,Apr 19,Piranha
+1924,Apr 20,May 20,Squirrel
+1924,May 21,Jun 21,Chipmunk
+1924,Jun 22,Jul 21,Seahorse
+1924,Jul 22,Aug 22,Otter
+1924,Aug 23,Sep 22,Mouse
+1924,Sep 23,Oct 23,Vulture
+1924,Oct 24,Nov 21,Anaconda
+1924,Nov 22,Dec 21,Skunk
+1924,Dec 22,Dec 31,Aardvark
+1925,Jan 01,Jan 19,Aardvark
+1925,Jan 20,Jan 23,Meerkat
+1925,Jan 24,Feb 19,Walrus
+1925,Feb 20,Mar 20,Moose
+1925,Mar 21,Apr 19,Hippopotamus
+1925,Apr 20,May 20,Yak
+1925,May 21,Jun 21,Coyote
+1925,Jun 22,Jul 21,Black Bear
+1925,Jul 22,Aug 22,Sun Bear
+1925,Aug 23,Sep 22,Sea Star
+1925,Sep 23,Oct 23,Elephant
+1925,Oct 24,Nov 21,Platypus
+1925,Nov 22,Dec 21,Raccoon
+1925,Dec 22,Dec 31,Ant
+1926,Jan 01,Jan 19,Ant
+1926,Jan 20,Feb 12,Walrus
+1926,Feb 13,Feb 19,Panther
+1926,Feb 20,Mar 20,Stingray
+1926,Mar 21,Apr 19,Rhinoceros
+1926,Apr 20,May 20,Wolf
+1926,May 21,Jun 21,Chimpanzee
+1926,Jun 22,Jul 21,Vampire Bat
+1926,Jul 22,Aug 22,Wolverine
+1926,Aug 23,Sep 22,Narwhal
+1926,Sep 23,Oct 23,Tasmanian Devil
+1926,Oct 24,Nov 21,Honey Badger
+1926,Nov 22,Dec 21,Mongoose
+1926,Dec 22,Dec 31,Komodo Dragon
+1927,Jan 01,Jan 19,Komodo Dragon
+1927,Jan 20,Feb 01,Panther
+1927,Feb 02,Feb 19,Sloth
+1927,Feb 20,Mar 20,Silkworm
+1927,Mar 21,Apr 19,Llama
+1927,Apr 20,May 20,Hedgehog
+1927,May 21,Jun 21,Toucan
+1927,Jun 22,Jul 21,Turtle
+1927,Jul 22,Aug 22,Angora Rabbit
+1927,Aug 23,Sep 22,Earthworm
+1927,Sep 23,Oct 23,Butterfly
+1927,Oct 24,Nov 21,Koala
+1927,Nov 22,Dec 21,Sugar Glider
+1927,Dec 22,Dec 31,Weaver Finch
+1928,Jan 01,Jan 19,Weaver Finch
+1928,Jan 20,Jan 22,Sloth
+1928,Jan 23,Feb 19,Leopard
+1928,Feb 20,Mar 20,Firefly
+1928,Mar 21,Apr 19,Tyrannosaurus Rex
+1928,Apr 20,May 20,Rattlesnake
+1928,May 21,Jun 21,Hummingbird
+1928,Jun 22,Jul 21,Hornet
+1928,Jul 22,Aug 22,Orca
+1928,Aug 23,Sep 22,Polar Bear
+1928,Sep 23,Oct 23,Porcupine
+1928,Oct 24,Nov 21,Jaguar
+1928,Nov 22,Dec 21,Whale
+1928,Dec 22,Dec 31,Eagle
+1929,Jan 01,Jan 19,Eagle
+1929,Jan 20,Feb 09,Leopard
+1929,Feb 10,Feb 19,Boa Constrictor
+1929,Feb 20,Mar 20,Frog
+1929,Mar 21,Apr 19,Praying Mantis
+1929,Apr 20,May 20,Jackal
+1929,May 21,Jun 21,Lemur
+1929,Jun 22,Jul 21,Snail
+1929,Jul 22,Aug 22,Fox
+1929,Aug 23,Sep 22,Jellyfish
+1929,Sep 23,Oct 23,Ladybug
+1929,Oct 24,Nov 21,Anglerfish
+1929,Nov 22,Dec 21,Tarantula
+1929,Dec 22,Dec 31,Alligator
+1930,Jan 01,Jan 19,Alligator
+1930,Jan 20,Jan 29,Boa Constrictor
+1930,Jan 30,Feb 19,Unicorn
+1930,Feb 20,Mar 20,Gecko
+1930,Mar 21,Apr 19,Hammerhead Shark
+1930,Apr 20,May 20,Kangaroo
+1930,May 21,Jun 21,Great White Shark
+1930,Jun 22,Jul 21,Hermit Crab
+1930,Jul 22,Aug 22,Hyena
+1930,Aug 23,Sep 22,Giraffe
+1930,Sep 23,Oct 23,Goose
+1930,Oct 24,Nov 21,Dragonfly
+1930,Nov 22,Dec 21,Dove
+1930,Dec 22,Dec 31,Salmon
+1931,Jan 01,Jan 19,Salmon
+1931,Jan 20,Feb 16,Unicorn
+1931,Feb 17,Feb 19,Handfish
+1931,Feb 20,Mar 20,Leafy Seadragon
+1931,Mar 21,Apr 19,Catfish
+1931,Apr 20,May 20,Buffalo
+1931,May 21,Jun 21,Centipede
+1931,Jun 22,Jul 21,Duck
+1931,Jul 22,Aug 22,Swan
+1931,Aug 23,Sep 22,Flamingo
+1931,Sep 23,Oct 23,Clownfish
+1931,Oct 24,Nov 21,Panda
+1931,Nov 22,Dec 21,Tortoise
+1931,Dec 22,Dec 31,Mole
+1932,Jan 01,Jan 19,Mole
+1932,Jan 20,Feb 05,Handfish
+1932,Feb 06,Feb 19,Dolphin
+1932,Feb 20,Mar 20,Cheetah
+1932,Mar 21,Apr 19,Gorilla
+1932,Apr 20,May 20,Ostrich
+1932,May 21,Jun 21,Seal
+1932,Jun 22,Jul 21,Emperor Tamarin
+1932,Jul 22,Aug 22,Ferret
+1932,Aug 23,Sep 22,Penguin
+1932,Sep 23,Oct 23,Axolotl
+1932,Oct 24,Nov 21,Raven
+1932,Nov 22,Dec 21,Roadrunner
+1932,Dec 22,Dec 31,Woodpecker
+1933,Jan 01,Jan 19,Woodpecker
+1933,Jan 20,Jan 25,Dolphin
+1933,Jan 26,Feb 19,Bird-of-Paradise
+1933,Feb 20,Mar 20,Ocelot
+1933,Mar 21,Apr 19,Goldfinch
+1933,Apr 20,May 20,Beaver
+1933,May 21,Jun 21,Parrot
+1933,Jun 22,Jul 21,Iguana
+1933,Jul 22,Aug 22,Peacock
+1933,Aug 23,Sep 22,Corgi
+1933,Sep 23,Oct 23,Pelican
+1933,Oct 24,Nov 21,Owl
+1933,Nov 22,Dec 21,Swordfish
+1933,Dec 22,Dec 31,Bee
+1934,Jan 01,Jan 19,Bee
+1934,Jan 20,Feb 13,Bird-of-Paradise
+1934,Feb 14,Feb 19,Chameleon
+1934,Feb 20,Mar 20,Tarsier
+1934,Mar 21,Apr 19,Doberman Pinscher
+1934,Apr 20,May 20,Seagull
+1934,May 21,Jun 21,Deer
+1934,Jun 22,Jul 21,Pit Bull
+1934,Jul 22,Aug 22,Shih Tzu
+1934,Aug 23,Sep 22,Salamander
+1934,Sep 23,Oct 23,Crane
+1934,Oct 24,Nov 21,Octopus
+1934,Nov 22,Dec 21,Golden Retriever
+1934,Dec 22,Dec 31,Boxer
+1935,Jan 01,Jan 19,Boxer
+1935,Jan 20,Feb 03,Chameleon
+1935,Feb 04,Feb 19,Pufferfish
+1935,Feb 20,Mar 20,Zebra
+1935,Mar 21,Apr 19,Dodo
+1935,Apr 20,May 20,Wombat
+1935,May 21,Jun 21,Cricket
+1935,Jun 22,Jul 21,Lobster
+1935,Jul 22,Aug 22,Quetzal
+1935,Aug 23,Sep 22,Gazelle
+1935,Sep 23,Oct 23,Marmot
+1935,Oct 24,Nov 21,Squid
+1935,Nov 22,Dec 21,Camel
+1935,Dec 22,Dec 31,Spider
+Year,Start Date,End Date,Primal Sign
+1936,Jan 01,Jan 19,Spider
+1936,Jan 20,Jan 23,Pufferfish
+1936,Jan 24,Feb 19,Meerkat
+1936,Feb 20,Mar 20,Lemming
+1936,Mar 21,Apr 19,Piranha
+1936,Apr 20,May 20,Squirrel
+1936,May 21,Jun 21,Chipmunk
+1936,Jun 22,Jul 21,Seahorse
+1936,Jul 22,Aug 22,Otter
+1936,Aug 23,Sep 22,Mouse
+1936,Sep 23,Oct 23,Vulture
+1936,Oct 24,Nov 21,Anaconda
+1936,Nov 22,Dec 21,Skunk
+1936,Dec 22,Dec 31,Aardvark
+1937,Jan 01,Jan 19,Aardvark
+1937,Jan 20,Feb 10,Meerkat
+1937,Feb 11,Feb 19,Walrus
+1937,Feb 20,Mar 20,Moose
+1937,Mar 21,Apr 19,Hippopotamus
+1937,Apr 20,May 20,Yak
+1937,May 21,Jun 21,Coyote
+1937,Jun 22,Jul 21,Black Bear
+1937,Jul 22,Aug 22,Sun Bear
+1937,Aug 23,Sep 22,Sea Star
+1937,Sep 23,Oct 23,Elephant
+1937,Oct 24,Nov 21,Platypus
+1937,Nov 22,Dec 21,Raccoon
+1937,Dec 22,Dec 31,Ant
+1938,Jan 01,Jan 19,Ant
+1938,Jan 20,Jan 30,Walrus
+1938,Jan 31,Feb 19,Panther
+1938,Feb 20,Mar 20,Stingray
+1938,Mar 21,Apr 19,Rhinoceros
+1938,Apr 20,May 20,Wolf
+1938,May 21,Jun 21,Chimpanzee
+1938,Jun 22,Jul 21,Vampire Bat
+1938,Jul 22,Aug 22,Wolverine
+1938,Aug 23,Sep 22,Narwhal
+1938,Sep 23,Oct 23,Tasmanian Devil
+1938,Oct 24,Nov 21,Honey Badger
+1938,Nov 22,Dec 21,Mongoose
+1938,Dec 22,Dec 31,Komodo Dragon
+1939,Jan 01,Jan 19,Komodo Dragon
+1939,Jan 20,Feb 18,Panther
+1939,Feb 19,Feb 19,Sloth
+1939,Feb 20,Mar 20,Silkworm
+1939,Mar 21,Apr 19,Llama
+1939,Apr 20,May 20,Hedgehog
+1939,May 21,Jun 21,Toucan
+1939,Jun 22,Jul 21,Turtle
+1939,Jul 22,Aug 22,Angora Rabbit
+1939,Aug 23,Sep 22,Earthworm
+1939,Sep 23,Oct 23,Butterfly
+1939,Oct 24,Nov 21,Koala
+1939,Nov 22,Dec 21,Sugar Glider
+1939,Dec 22,Dec 31,Weaver Finch
+1940,Jan 01,Jan 19,Weaver Finch
+1940,Jan 20,Feb 07,Sloth
+1940,Feb 08,Feb 19,Leopard
+1940,Feb 20,Mar 20,Firefly
+1940,Mar 21,Apr 19,Tyrannosaurus Rex
+1940,Apr 20,May 20,Rattlesnake
+1940,May 21,Jun 21,Hummingbird
+1940,Jun 22,Jul 21,Hornet
+1940,Jul 22,Aug 22,Orca
+1940,Aug 23,Sep 22,Polar Bear
+1940,Sep 23,Oct 23,Porcupine
+1940,Oct 24,Nov 21,Jaguar
+1940,Nov 22,Dec 21,Whale
+1940,Dec 22,Dec 31,Eagle
+1941,Jan 01,Jan 19,Eagle
+1941,Jan 20,Jan 26,Leopard
+1941,Jan 27,Feb 19,Boa Constrictor
+1941,Feb 20,Mar 20,Frog
+1941,Mar 21,Apr 19,Praying Mantis
+1941,Apr 20,May 20,Jackal
+1941,May 21,Jun 21,Lemur
+1941,Jun 22,Jul 21,Snail
+1941,Jul 22,Aug 22,Fox
+1941,Aug 23,Sep 22,Jellyfish
+1941,Sep 23,Oct 23,Ladybug
+1941,Oct 24,Nov 21,Anglerfish
+1941,Nov 22,Dec 21,Tarantula
+1941,Dec 22,Dec 31,Alligator
+1942,Jan 01,Jan 19,Alligator
+1942,Jan 20,Feb 14,Boa Constrictor
+1942,Feb 15,Feb 19,Unicorn
+1942,Feb 20,Mar 20,Gecko
+1942,Mar 21,Apr 19,Hammerhead Shark
+1942,Apr 20,May 20,Kangaroo
+1942,May 21,Jun 21,Great White Shark
+1942,Jun 22,Jul 21,Hermit Crab
+1942,Jul 22,Aug 22,Hyena
+1942,Aug 23,Sep 22,Giraffe
+1942,Sep 23,Oct 23,Goose
+1942,Oct 24,Nov 21,Dragonfly
+1942,Nov 22,Dec 21,Dove
+1942,Dec 22,Dec 31,Salmon
+1943,Jan 01,Jan 19,Salmon
+1943,Jan 20,Feb 04,Unicorn
+1943,Feb 05,Feb 19,Handfish
+1943,Feb 20,Mar 20,Leafy Seadragon
+1943,Mar 21,Apr 19,Catfish
+1943,Apr 20,May 20,Buffalo
+1943,May 21,Jun 21,Centipede
+1943,Jun 22,Jul 21,Duck
+1943,Jul 22,Aug 22,Swan
+1943,Aug 23,Sep 22,Flamingo
+1943,Sep 23,Oct 23,Clownfish
+1943,Oct 24,Nov 21,Panda
+1943,Nov 22,Dec 21,Tortoise
+1943,Dec 22,Dec 31,Mole
+1944,Jan 01,Jan 19,Mole
+1944,Jan 20,Jan 24,Handfish
+1944,Jan 25,Feb 19,Dolphin
+1944,Feb 20,Mar 20,Cheetah
+1944,Mar 21,Apr 19,Gorilla
+1944,Apr 20,May 20,Ostrich
+1944,May 21,Jun 21,Seal
+1944,Jun 22,Jul 21,Emperor Tamarin
+1944,Jul 22,Aug 22,Ferret
+1944,Aug 23,Sep 22,Penguin
+1944,Sep 23,Oct 23,Axolotl
+1944,Oct 24,Nov 21,Raven
+1944,Nov 22,Dec 21,Roadrunner
+1944,Dec 22,Dec 31,Woodpecker
+1945,Jan 01,Jan 19,Woodpecker
+1945,Jan 20,Feb 12,Dolphin
+1945,Feb 13,Feb 19,Bird-of-Paradise
+1945,Feb 20,Mar 20,Ocelot
+1945,Mar 21,Apr 19,Goldfinch
+1945,Apr 20,May 20,Beaver
+1945,May 21,Jun 21,Parrot
+1945,Jun 22,Jul 21,Iguana
+1945,Jul 22,Aug 22,Peacock
+1945,Aug 23,Sep 22,Corgi
+1945,Sep 23,Oct 23,Pelican
+1945,Oct 24,Nov 21,Owl
+1945,Nov 22,Dec 21,Swordfish
+1945,Dec 22,Dec 31,Bee
+1946,Jan 01,Jan 19,Bee
+1946,Jan 20,Feb 01,Bird-of-Paradise
+1946,Feb 02,Feb 19,Chameleon
+1946,Feb 20,Mar 20,Tarsier
+1946,Mar 21,Apr 19,Doberman Pinscher
+1946,Apr 20,May 20,Seagull
+1946,May 21,Jun 21,Deer
+1946,Jun 22,Jul 21,Pit Bull
+1946,Jul 22,Aug 22,Shih Tzu
+1946,Aug 23,Sep 22,Salamander
+1946,Sep 23,Oct 23,Crane
+1946,Oct 24,Nov 21,Octopus
+1946,Nov 22,Dec 21,Golden Retriever
+1946,Dec 22,Dec 31,Boxer
+1947,Jan 01,Jan 19,Boxer
+1947,Jan 20,Jan 21,Chameleon
+1947,Jan 22,Feb 19,Pufferfish
+1947,Feb 20,Mar 20,Zebra
+1947,Mar 21,Apr 19,Dodo
+1947,Apr 20,May 20,Wombat
+1947,May 21,Jun 21,Cricket
+1947,Jun 22,Jul 21,Lobster
+1947,Jul 22,Aug 22,Quetzal
+1947,Aug 23,Sep 22,Gazelle
+1947,Sep 23,Oct 23,Marmot
+1947,Oct 24,Nov 21,Squid
+1947,Nov 22,Dec 21,Camel
+1947,Dec 22,Dec 31,Spider
+1948,Jan 01,Jan 19,Spider
+1948,Jan 20,Feb 09,Pufferfish
+1948,Feb 10,Feb 19,Meerkat
+1948,Feb 20,Mar 20,Lemming
+1948,Mar 21,Apr 19,Piranha
+1948,Apr 20,May 20,Squirrel
+1948,May 21,Jun 21,Chipmunk
+1948,Jun 22,Jul 21,Seahorse
+1948,Jul 22,Aug 22,Otter
+1948,Aug 23,Sep 22,Mouse
+1948,Sep 23,Oct 23,Vulture
+1948,Oct 24,Nov 21,Anaconda
+1948,Nov 22,Dec 21,Skunk
+1948,Dec 22,Dec 31,Aardvark
+1949,Jan 01,Jan 19,Aardvark
+1949,Jan 20,Jan 28,Meerkat
+1949,Jan 29,Feb 19,Walrus
+1949,Feb 20,Mar 20,Moose
+1949,Mar 21,Apr 19,Hippopotamus
+1949,Apr 20,May 20,Yak
+1949,May 21,Jun 21,Coyote
+1949,Jun 22,Jul 21,Black Bear
+1949,Jul 22,Aug 22,Sun Bear
+1949,Aug 23,Sep 22,Sea Star
+1949,Sep 23,Oct 23,Elephant
+1949,Oct 24,Nov 21,Platypus
+1949,Nov 22,Dec 21,Raccoon
+1949,Dec 22,Dec 31,Ant
+1950,Jan 01,Jan 19,Ant
+1950,Jan 20,Feb 16,Walrus
+1950,Feb 17,Feb 19,Panther
+1950,Feb 20,Mar 20,Stingray
+1950,Mar 21,Apr 19,Rhinoceros
+1950,Apr 20,May 20,Wolf
+1950,May 21,Jun 21,Chimpanzee
+1950,Jun 22,Jul 21,Vampire Bat
+1950,Jul 22,Aug 22,Wolverine
+1950,Aug 23,Sep 22,Narwhal
+1950,Sep 23,Oct 23,Tasmanian Devil
+1950,Oct 24,Nov 21,Honey Badger
+1950,Nov 22,Dec 21,Mongoose
+1950,Dec 22,Dec 31,Komodo Dragon
+1951,Jan 01,Jan 19,Komodo Dragon
+1951,Jan 20,Feb 05,Panther
+1951,Feb 06,Feb 19,Sloth
+1951,Feb 20,Mar 20,Silkworm
+1951,Mar 21,Apr 19,Llama
+1951,Apr 20,May 20,Hedgehog
+1951,May 21,Jun 21,Toucan
+1951,Jun 22,Jul 21,Turtle
+1951,Jul 22,Aug 22,Angora Rabbit
+1951,Aug 23,Sep 22,Earthworm
+1951,Sep 23,Oct 23,Butterfly
+1951,Oct 24,Nov 21,Koala
+1951,Nov 22,Dec 21,Sugar Glider
+1951,Dec 22,Dec 31,Weaver Finch
+1952,Jan 01,Jan 19,Weaver Finch
+1952,Jan 20,Jan 26,Sloth
+1952,Jan 27,Feb 19,Leopard
+1952,Feb 20,Mar 20,Firefly
+1952,Mar 21,Apr 19,Tyrannosaurus Rex
+1952,Apr 20,May 20,Rattlesnake
+1952,May 21,Jun 21,Hummingbird
+1952,Jun 22,Jul 21,Hornet
+1952,Jul 22,Aug 22,Orca
+1952,Aug 23,Sep 22,Polar Bear
+1952,Sep 23,Oct 23,Porcupine
+1952,Oct 24,Nov 21,Jaguar
+1952,Nov 22,Dec 21,Whale
+1952,Dec 22,Dec 31,Eagle
+1953,Jan 01,Jan 19,Eagle
+1953,Jan 20,Feb 13,Leopard
+1953,Feb 14,Feb 19,Boa Constrictor
+1953,Feb 20,Mar 20,Frog
+1953,Mar 21,Apr 19,Praying Mantis
+1953,Apr 20,May 20,Jackal
+1953,May 21,Jun 21,Lemur
+1953,Jun 22,Jul 21,Snail
+1953,Jul 22,Aug 22,Fox
+1953,Aug 23,Sep 22,Jellyfish
+1953,Sep 23,Oct 23,Ladybug
+1953,Oct 24,Nov 21,Anglerfish
+1953,Nov 22,Dec 21,Tarantula
+1953,Dec 22,Dec 31,Alligator
+1954,Jan 01,Jan 19,Alligator
+1954,Jan 20,Feb 02,Boa Constrictor
+1954,Feb 03,Feb 19,Unicorn
+1954,Feb 20,Mar 20,Gecko
+1954,Mar 21,Apr 19,Hammerhead Shark
+1954,Apr 20,May 20,Kangaroo
+1954,May 21,Jun 21,Great White Shark
+1954,Jun 22,Jul 21,Hermit Crab
+1954,Jul 22,Aug 22,Hyena
+1954,Aug 23,Sep 22,Giraffe
+1954,Sep 23,Oct 23,Goose
+1954,Oct 24,Nov 21,Dragonfly
+1954,Nov 22,Dec 21,Dove
+1954,Dec 22,Dec 31,Salmon
+1955,Jan 01,Jan 19,Salmon
+1955,Jan 20,Jan 23,Unicorn
+1955,Jan 24,Feb 19,Handfish
+1955,Feb 20,Mar 20,Leafy Seadragon
+1955,Mar 21,Apr 19,Catfish
+1955,Apr 20,May 20,Buffalo
+1955,May 21,Jun 21,Centipede
+1955,Jun 22,Jul 21,Duck
+1955,Jul 22,Aug 22,Swan
+1955,Aug 23,Sep 22,Flamingo
+1955,Sep 23,Oct 23,Clownfish
+1955,Oct 24,Nov 21,Panda
+1955,Nov 22,Dec 21,Tortoise
+1955,Dec 22,Dec 31,Mole
+1956,Jan 01,Jan 19,Mole
+1956,Jan 20,Feb 11,Handfish
+1956,Feb 12,Feb 19,Dolphin
+1956,Feb 20,Mar 20,Cheetah
+1956,Mar 21,Apr 19,Gorilla
+1956,Apr 20,May 20,Ostrich
+1956,May 21,Jun 21,Seal
+1956,Jun 22,Jul 21,Emperor Tamarin
+1956,Jul 22,Aug 22,Ferret
+1956,Aug 23,Sep 22,Penguin
+1956,Sep 23,Oct 23,Axolotl
+1956,Oct 24,Nov 21,Raven
+1956,Nov 22,Dec 21,Roadrunner
+1956,Dec 22,Dec 31,Woodpecker
+1957,Jan 01,Jan 19,Woodpecker
+1957,Jan 20,Jan 30,Dolphin
+1957,Jan 31,Feb 19,Bird-of-Paradise
+1957,Feb 20,Mar 20,Ocelot
+1957,Mar 21,Apr 19,Goldfinch
+1957,Apr 20,May 20,Beaver
+1957,May 21,Jun 21,Parrot
+1957,Jun 22,Jul 21,Iguana
+1957,Jul 22,Aug 22,Peacock
+1957,Aug 23,Sep 22,Corgi
+1957,Sep 23,Oct 23,Pelican
+1957,Oct 24,Nov 21,Owl
+1957,Nov 22,Dec 21,Swordfish
+1957,Dec 22,Dec 31,Bee
+1958,Jan 01,Jan 19,Bee
+1958,Jan 20,Feb 17,Bird-of-Paradise
+1958,Feb 18,Feb 19,Chameleon
+1958,Feb 20,Mar 20,Tarsier
+1958,Mar 21,Apr 19,Doberman Pinscher
+1958,Apr 20,May 20,Seagull
+1958,May 21,Jun 21,Deer
+1958,Jun 22,Jul 21,Pit Bull
+1958,Jul 22,Aug 22,Shih Tzu
+1958,Aug 23,Sep 22,Salamander
+1958,Sep 23,Oct 23,Crane
+1958,Oct 24,Nov 21,Octopus
+1958,Nov 22,Dec 21,Golden Retriever
+1958,Dec 22,Dec 31,Boxer
+1959,Jan 01,Jan 19,Boxer
+1959,Jan 20,Feb 07,Chameleon
+1959,Feb 08,Feb 19,Pufferfish
+1959,Feb 20,Mar 20,Zebra
+1959,Mar 21,Apr 19,Dodo
+1959,Apr 20,May 20,Wombat
+1959,May 21,Jun 21,Cricket
+1959,Jun 22,Jul 21,Lobster
+1959,Jul 22,Aug 22,Quetzal
+1959,Aug 23,Sep 22,Gazelle
+1959,Sep 23,Oct 23,Marmot
+1959,Oct 24,Nov 21,Squid
+1959,Nov 22,Dec 21,Camel
+1959,Dec 22,Dec 31,Spider
+1960,Jan 01,Jan 19,Spider
+1960,Jan 20,Jan 27,Pufferfish
+1960,Jan 28,Feb 19,Meerkat
+1960,Feb 20,Mar 20,Lemming
+1960,Mar 21,Apr 19,Piranha
+1960,Apr 20,May 20,Squirrel
+1960,May 21,Jun 21,Chipmunk
+1960,Jun 22,Jul 21,Seahorse
+1960,Jul 22,Aug 22,Otter
+1960,Aug 23,Sep 22,Mouse
+1960,Sep 23,Oct 23,Vulture
+1960,Oct 24,Nov 21,Anaconda
+1960,Nov 22,Dec 21,Skunk
+1960,Dec 22,Dec 31,Aardvark
+1961,Jan 01,Jan 19,Aardvark
+1961,Jan 20,Feb 14,Meerkat
+1961,Feb 15,Feb 19,Walrus
+1961,Feb 20,Mar 20,Moose
+1961,Mar 21,Apr 19,Hippopotamus
+1961,Apr 20,May 20,Yak
+1961,May 21,Jun 21,Coyote
+1961,Jun 22,Jul 21,Black Bear
+1961,Jul 22,Aug 22,Sun Bear
+1961,Aug 23,Sep 22,Sea Star
+1961,Sep 23,Oct 23,Elephant
+1961,Oct 24,Nov 21,Platypus
+1961,Nov 22,Dec 21,Raccoon
+1961,Dec 22,Dec 31,Ant
+1962,Jan 01,Jan 19,Ant
+1962,Jan 20,Feb 04,Walrus
+1962,Feb 05,Feb 19,Panther
+1962,Feb 20,Mar 20,Stingray
+1962,Mar 21,Apr 19,Rhinoceros
+1962,Apr 20,May 20,Wolf
+1962,May 21,Jun 21,Chimpanzee
+1962,Jun 22,Jul 21,Vampire Bat
+1962,Jul 22,Aug 22,Wolverine
+1962,Aug 23,Sep 22,Narwhal
+1962,Sep 23,Oct 23,Tasmanian Devil
+1962,Oct 24,Nov 21,Honey Badger
+1962,Nov 22,Dec 21,Mongoose
+1962,Dec 22,Dec 31,Komodo Dragon
+1963,Jan 01,Jan 19,Komodo Dragon
+1963,Jan 20,Jan 24,Panther
+1963,Jan 25,Feb 19,Sloth
+1963,Feb 20,Mar 20,Silkworm
+1963,Mar 21,Apr 19,Llama
+1963,Apr 20,May 20,Hedgehog
+1963,May 21,Jun 21,Toucan
+1963,Jun 22,Jul 21,Turtle
+1963,Jul 22,Aug 22,Angora Rabbit
+1963,Aug 23,Sep 22,Earthworm
+1963,Sep 23,Oct 23,Butterfly
+1963,Oct 24,Nov 21,Koala
+1963,Nov 22,Dec 21,Sugar Glider
+1963,Dec 22,Dec 31,Weaver Finch
+1964,Jan 01,Jan 19,Weaver Finch
+1964,Jan 20,Feb 12,Sloth
+1964,Feb 13,Feb 19,Leopard
+1964,Feb 20,Mar 20,Firefly
+1964,Mar 21,Apr 19,Tyrannosaurus Rex
+1964,Apr 20,May 20,Rattlesnake
+1964,May 21,Jun 21,Hummingbird
+1964,Jun 22,Jul 21,Hornet
+1964,Jul 22,Aug 22,Orca
+1964,Aug 23,Sep 22,Polar Bear
+1964,Sep 23,Oct 23,Porcupine
+1964,Oct 24,Nov 21,Jaguar
+1964,Nov 22,Dec 21,Whale
+1964,Dec 22,Dec 31,Eagle
+1965,Jan 01,Jan 19,Eagle
+1965,Jan 20,Feb 01,Leopard
+1965,Feb 02,Feb 19,Boa Constrictor
+1965,Feb 20,Mar 20,Frog
+1965,Mar 21,Apr 19,Praying Mantis
+1965,Apr 20,May 20,Jackal
+1965,May 21,Jun 21,Lemur
+1965,Jun 22,Jul 21,Snail
+1965,Jul 22,Aug 22,Fox
+1965,Aug 23,Sep 22,Jellyfish
+1965,Sep 23,Oct 23,Ladybug
+1965,Oct 24,Nov 21,Anglerfish
+1965,Nov 22,Dec 21,Tarantula
+1965,Dec 22,Dec 31,Alligator
+1966,Jan 01,Jan 19,Alligator
+1966,Jan 20,Jan 20,Boa Constrictor
+1966,Jan 21,Feb 19,Unicorn
+1966,Feb 20,Mar 20,Gecko
+1966,Mar 21,Apr 19,Hammerhead Shark
+1966,Apr 20,May 20,Kangaroo
+1966,May 21,Jun 21,Great White Shark
+1966,Jun 22,Jul 21,Hermit Crab
+1966,Jul 22,Aug 22,Hyena
+1966,Aug 23,Sep 22,Giraffe
+1966,Sep 23,Oct 23,Goose
+1966,Oct 24,Nov 21,Dragonfly
+1966,Nov 22,Dec 21,Dove
+1966,Dec 22,Dec 31,Salmon
+1967,Jan 01,Jan 19,Salmon
+1967,Jan 20,Feb 08,Unicorn
+1967,Feb 09,Feb 19,Handfish
+1967,Feb 20,Mar 20,Leafy Seadragon
+1967,Mar 21,Apr 19,Catfish
+1967,Apr 20,May 20,Buffalo
+1967,May 21,Jun 21,Centipede
+1967,Jun 22,Jul 21,Duck
+1967,Jul 22,Aug 22,Swan
+1967,Aug 23,Sep 22,Flamingo
+1967,Sep 23,Oct 23,Clownfish
+1967,Oct 24,Nov 21,Panda
+1967,Nov 22,Dec 21,Tortoise
+1967,Dec 22,Dec 31,Mole
+1968,Jan 01,Jan 19,Mole
+1968,Jan 20,Jan 29,Handfish
+1968,Jan 30,Feb 19,Dolphin
+1968,Feb 20,Mar 20,Cheetah
+1968,Mar 21,Apr 19,Gorilla
+1968,Apr 20,May 20,Ostrich
+1968,May 21,Jun 21,Seal
+1968,Jun 22,Jul 21,Emperor Tamarin
+1968,Jul 22,Aug 22,Ferret
+1968,Aug 23,Sep 22,Penguin
+1968,Sep 23,Oct 23,Axolotl
+1968,Oct 24,Nov 21,Raven
+1968,Nov 22,Dec 21,Roadrunner
+1968,Dec 22,Dec 31,Woodpecker
+1969,Jan 01,Jan 19,Woodpecker
+1969,Jan 20,Feb 16,Dolphin
+1969,Feb 17,Feb 19,Bird-of-Paradise
+1969,Feb 20,Mar 20,Ocelot
+1969,Mar 21,Apr 19,Goldfinch
+1969,Apr 20,May 20,Beaver
+1969,May 21,Jun 21,Parrot
+1969,Jun 22,Jul 21,Iguana
+1969,Jul 22,Aug 22,Peacock
+1969,Aug 23,Sep 22,Corgi
+1969,Sep 23,Oct 23,Pelican
+1969,Oct 24,Nov 21,Owl
+1969,Nov 22,Dec 21,Swordfish
+1969,Dec 22,Dec 31,Bee
+1970,Jan 01,Jan 19,Bee
+1970,Jan 20,Feb 05,Bird-of-Paradise
+1970,Feb 06,Feb 19,Chameleon
+1970,Feb 20,Mar 20,Tarsier
+1970,Mar 21,Apr 19,Doberman Pinscher
+1970,Apr 20,May 20,Seagull
+1970,May 21,Jun 21,Deer
+1970,Jun 22,Jul 21,Pit Bull
+1970,Jul 22,Aug 22,Shih Tzu
+1970,Aug 23,Sep 22,Salamander
+1970,Sep 23,Oct 23,Crane
+1970,Oct 24,Nov 21,Octopus
+1970,Nov 22,Dec 21,Golden Retriever
+1970,Dec 22,Dec 31,Boxer
+1971,Jan 01,Jan 19,Boxer
+1971,Jan 20,Jan 26,Chameleon
+1971,Jan 27,Feb 19,Pufferfish
+1971,Feb 20,Mar 20,Zebra
+1971,Mar 21,Apr 19,Dodo
+1971,Apr 20,May 20,Wombat
+1971,May 21,Jun 21,Cricket
+1971,Jun 22,Jul 21,Lobster
+1971,Jul 22,Aug 22,Quetzal
+1971,Aug 23,Sep 22,Gazelle
+1971,Sep 23,Oct 23,Marmot
+1971,Oct 24,Nov 21,Squid
+1971,Nov 22,Dec 21,Camel
+1971,Dec 22,Dec 31,Spider
+Year,Start Date,End Date,Primal Sign
+1972,Jan 01,Jan 19,Spider
+1972,Jan 20,Feb 14,Pufferfish
+1972,Feb 15,Feb 19,Meerkat
+1972,Feb 20,Mar 20,Lemming
+1972,Mar 21,Apr 19,Piranha
+1972,Apr 20,May 20,Squirrel
+1972,May 21,Jun 21,Chipmunk
+1972,Jun 22,Jul 21,Seahorse
+1972,Jul 22,Aug 22,Otter
+1972,Aug 23,Sep 22,Mouse
+1972,Sep 23,Oct 23,Vulture
+1972,Oct 24,Nov 21,Anaconda
+1972,Nov 22,Dec 21,Skunk
+1972,Dec 22,Dec 31,Aardvark
+1973,Jan 01,Jan 19,Aardvark
+1973,Jan 20,Feb 02,Meerkat
+1973,Feb 03,Feb 19,Walrus
+1973,Feb 20,Mar 20,Moose
+1973,Mar 21,Apr 19,Hippopotamus
+1973,Apr 20,May 20,Yak
+1973,May 21,Jun 21,Coyote
+1973,Jun 22,Jul 21,Black Bear
+1973,Jul 22,Aug 22,Sun Bear
+1973,Aug 23,Sep 22,Sea Star
+1973,Sep 23,Oct 23,Elephant
+1973,Oct 24,Nov 21,Platypus
+1973,Nov 22,Dec 21,Raccoon
+1973,Dec 22,Dec 31,Ant
+1974,Jan 01,Jan 19,Ant
+1974,Jan 20,Jan 22,Walrus
+1974,Jan 23,Feb 19,Panther
+1974,Feb 20,Mar 20,Stingray
+1974,Mar 21,Apr 19,Rhinoceros
+1974,Apr 20,May 20,Wolf
+1974,May 21,Jun 21,Chimpanzee
+1974,Jun 22,Jul 21,Vampire Bat
+1974,Jul 22,Aug 22,Wolverine
+1974,Aug 23,Sep 22,Narwhal
+1974,Sep 23,Oct 23,Tasmanian Devil
+1974,Oct 24,Nov 21,Honey Badger
+1974,Nov 22,Dec 21,Mongoose
+1974,Dec 22,Dec 31,Komodo Dragon
+1975,Jan 01,Jan 19,Komodo Dragon
+1975,Jan 20,Feb 10,Panther
+1975,Feb 11,Feb 19,Sloth
+1975,Feb 20,Mar 20,Silkworm
+1975,Mar 21,Apr 19,Llama
+1975,Apr 20,May 20,Hedgehog
+1975,May 21,Jun 21,Toucan
+1975,Jun 22,Jul 21,Turtle
+1975,Jul 22,Aug 22,Angora Rabbit
+1975,Aug 23,Sep 22,Earthworm
+1975,Sep 23,Oct 23,Butterfly
+1975,Oct 24,Nov 21,Koala
+1975,Nov 22,Dec 21,Sugar Glider
+1975,Dec 22,Dec 31,Weaver Finch
+1976,Jan 01,Jan 19,Weaver Finch
+1976,Jan 20,Jan 30,Sloth
+1976,Jan 31,Feb 19,Leopard
+1976,Feb 20,Mar 20,Firefly
+1976,Mar 21,Apr 19,Tyrannosaurus Rex
+1976,Apr 20,May 20,Rattlesnake
+1976,May 21,Jun 21,Hummingbird
+1976,Jun 22,Jul 21,Hornet
+1976,Jul 22,Aug 22,Orca
+1976,Aug 23,Sep 22,Polar Bear
+1976,Sep 23,Oct 23,Porcupine
+1976,Oct 24,Nov 21,Jaguar
+1976,Nov 22,Dec 21,Whale
+1976,Dec 22,Dec 31,Eagle
+1977,Jan 01,Jan 19,Eagle
+1977,Jan 20,Feb 17,Leopard
+1977,Feb 18,Feb 19,Boa Constrictor
+1977,Feb 20,Mar 20,Frog
+1977,Mar 21,Apr 19,Praying Mantis
+1977,Apr 20,May 20,Jackal
+1977,May 21,Jun 21,Lemur
+1977,Jun 22,Jul 21,Snail
+1977,Jul 22,Aug 22,Fox
+1977,Aug 23,Sep 22,Jellyfish
+1977,Sep 23,Oct 23,Ladybug
+1977,Oct 24,Nov 21,Anglerfish
+1977,Nov 22,Dec 21,Tarantula
+1977,Dec 22,Dec 31,Alligator
+1978,Jan 01,Jan 19,Alligator
+1978,Jan 20,Feb 06,Boa Constrictor
+1978,Feb 07,Feb 19,Unicorn
+1978,Feb 20,Mar 20,Gecko
+1978,Mar 21,Apr 19,Hammerhead Shark
+1978,Apr 20,May 20,Kangaroo
+1978,May 21,Jun 21,Great White Shark
+1978,Jun 22,Jul 21,Hermit Crab
+1978,Jul 22,Aug 22,Hyena
+1978,Aug 23,Sep 22,Giraffe
+1978,Sep 23,Oct 23,Goose
+1978,Oct 24,Nov 21,Dragonfly
+1978,Nov 22,Dec 21,Dove
+1978,Dec 22,Dec 31,Salmon
+1979,Jan 01,Jan 19,Salmon
+1979,Jan 20,Jan 27,Unicorn
+1979,Jan 28,Feb 19,Handfish
+1979,Feb 20,Mar 20,Leafy Seadragon
+1979,Mar 21,Apr 19,Catfish
+1979,Apr 20,May 20,Buffalo
+1979,May 21,Jun 21,Centipede
+1979,Jun 22,Jul 21,Duck
+1979,Jul 22,Aug 22,Swan
+1979,Aug 23,Sep 22,Flamingo
+1979,Sep 23,Oct 23,Clownfish
+1979,Oct 24,Nov 21,Panda
+1979,Nov 22,Dec 21,Tortoise
+1979,Dec 22,Dec 31,Mole
+1980,Jan 01,Jan 19,Mole
+1980,Jan 20,Feb 15,Handfish
+1980,Feb 16,Feb 19,Dolphin
+1980,Feb 20,Mar 20,Cheetah
+1980,Mar 21,Apr 19,Gorilla
+1980,Apr 20,May 20,Ostrich
+1980,May 21,Jun 21,Seal
+1980,Jun 22,Jul 21,Emperor Tamarin
+1980,Jul 22,Aug 22,Ferret
+1980,Aug 23,Sep 22,Penguin
+1980,Sep 23,Oct 23,Axolotl
+1980,Oct 24,Nov 21,Raven
+1980,Nov 22,Dec 21,Roadrunner
+1980,Dec 22,Dec 31,Woodpecker
+1981,Jan 01,Jan 19,Woodpecker
+1981,Jan 20,Feb 04,Dolphin
+1981,Feb 05,Feb 19,Bird-of-Paradise
+1981,Feb 20,Mar 20,Ocelot
+1981,Mar 21,Apr 19,Goldfinch
+1981,Apr 20,May 20,Beaver
+1981,May 21,Jun 21,Parrot
+1981,Jun 22,Jul 21,Iguana
+1981,Jul 22,Aug 22,Peacock
+1981,Aug 23,Sep 22,Corgi
+1981,Sep 23,Oct 23,Pelican
+1981,Oct 24,Nov 21,Owl
+1981,Nov 22,Dec 21,Swordfish
+1981,Dec 22,Dec 31,Bee
+1982,Jan 01,Jan 19,Bee
+1982,Jan 20,Jan 24,Bird-of-Paradise
+1982,Jan 25,Feb 19,Chameleon
+1982,Feb 20,Mar 20,Tarsier
+1982,Mar 21,Apr 19,Doberman Pinscher
+1982,Apr 20,May 20,Seagull
+1982,May 21,Jun 21,Deer
+1982,Jun 22,Jul 21,Pit Bull
+1982,Jul 22,Aug 22,Shih Tzu
+1982,Aug 23,Sep 22,Salamander
+1982,Sep 23,Oct 23,Crane
+1982,Oct 24,Nov 21,Octopus
+1982,Nov 22,Dec 21,Golden Retriever
+1982,Dec 22,Dec 31,Boxer
+1983,Jan 01,Jan 19,Boxer
+1983,Jan 20,Feb 12,Chameleon
+1983,Feb 13,Feb 19,Pufferfish
+1983,Feb 20,Mar 20,Zebra
+1983,Mar 21,Apr 19,Dodo
+1983,Apr 20,May 20,Wombat
+1983,May 21,Jun 21,Cricket
+1983,Jun 22,Jul 21,Lobster
+1983,Jul 22,Aug 22,Quetzal
+1983,Aug 23,Sep 22,Gazelle
+1983,Sep 23,Oct 23,Marmot
+1983,Oct 24,Nov 21,Squid
+1983,Nov 22,Dec 21,Camel
+1983,Dec 22,Dec 31,Spider
+1984,Jan 01,Jan 19,Spider
+1984,Jan 20,Feb 01,Pufferfish
+1984,Feb 02,Feb 19,Meerkat
+1984,Feb 20,Mar 20,Lemming
+1984,Mar 21,Apr 19,Piranha
+1984,Apr 20,May 20,Squirrel
+1984,May 21,Jun 21,Chipmunk
+1984,Jun 22,Jul 21,Seahorse
+1984,Jul 22,Aug 22,Otter
+1984,Aug 23,Sep 22,Mouse
+1984,Sep 23,Oct 23,Vulture
+1984,Oct 24,Nov 21,Anaconda
+1984,Nov 22,Dec 21,Skunk
+1984,Dec 22,Dec 31,Aardvark
+1985,Jan 01,Jan 19,Aardvark
+1985,Jan 20,Feb 19,Meerkat
+1985,Feb 20,Mar 20,Moose
+1985,Mar 21,Apr 19,Hippopotamus
+1985,Apr 20,May 20,Yak
+1985,May 21,Jun 21,Coyote
+1985,Jun 22,Jul 21,Black Bear
+1985,Jul 22,Aug 22,Sun Bear
+1985,Aug 23,Sep 22,Sea Star
+1985,Sep 23,Oct 23,Elephant
+1985,Oct 24,Nov 21,Platypus
+1985,Nov 22,Dec 21,Raccoon
+1985,Dec 22,Dec 31,Ant
+1986,Jan 01,Jan 19,Ant
+1986,Jan 20,Feb 08,Walrus
+1986,Feb 09,Feb 19,Panther
+1986,Feb 20,Mar 20,Stingray
+1986,Mar 21,Apr 19,Rhinoceros
+1986,Apr 20,May 20,Wolf
+1986,May 21,Jun 21,Chimpanzee
+1986,Jun 22,Jul 21,Vampire Bat
+1986,Jul 22,Aug 22,Wolverine
+1986,Aug 23,Sep 22,Narwhal
+1986,Sep 23,Oct 23,Tasmanian Devil
+1986,Oct 24,Nov 21,Honey Badger
+1986,Nov 22,Dec 21,Mongoose
+1986,Dec 22,Dec 31,Komodo Dragon
+1987,Jan 01,Jan 19,Komodo Dragon
+1987,Jan 20,Jan 28,Panther
+1987,Jan 29,Feb 19,Sloth
+1987,Feb 20,Mar 20,Silkworm
+1987,Mar 21,Apr 19,Llama
+1987,Apr 20,May 20,Hedgehog
+1987,May 21,Jun 21,Toucan
+1987,Jun 22,Jul 21,Turtle
+1987,Jul 22,Aug 22,Angora Rabbit
+1987,Aug 23,Sep 22,Earthworm
+1987,Sep 23,Oct 23,Butterfly
+1987,Oct 24,Nov 21,Koala
+1987,Nov 22,Dec 21,Sugar Glider
+1987,Dec 22,Dec 31,Weaver Finch
+1988,Jan 01,Jan 19,Weaver Finch
+1988,Jan 20,Feb 16,Sloth
+1988,Feb 17,Feb 19,Leopard
+1988,Feb 20,Mar 20,Firefly
+1988,Mar 21,Apr 19,Tyrannosaurus Rex
+1988,Apr 20,May 20,Rattlesnake
+1988,May 21,Jun 21,Hummingbird
+1988,Jun 22,Jul 21,Hornet
+1988,Jul 22,Aug 22,Orca
+1988,Aug 23,Sep 22,Polar Bear
+1988,Sep 23,Oct 23,Porcupine
+1988,Oct 24,Nov 21,Jaguar
+1988,Nov 22,Dec 21,Whale
+1988,Dec 22,Dec 31,Eagle
+1989,Jan 01,Jan 19,Eagle
+1989,Jan 20,Feb 05,Leopard
+1989,Feb 06,Feb 19,Boa Constrictor
+1989,Feb 20,Mar 20,Frog
+1989,Mar 21,Apr 19,Praying Mantis
+1989,Apr 20,May 20,Jackal
+1989,May 21,Jun 21,Lemur
+1989,Jun 22,Jul 21,Snail
+1989,Jul 22,Aug 22,Fox
+1989,Aug 23,Sep 22,Jellyfish
+1989,Sep 23,Oct 23,Ladybug
+1989,Oct 24,Nov 21,Anglerfish
+1989,Nov 22,Dec 21,Tarantula
+1989,Dec 22,Dec 31,Alligator
+1990,Jan 01,Jan 19,Alligator
+1990,Jan 20,Jan 26,Boa Constrictor
+1990,Jan 27,Feb 19,Unicorn
+1990,Feb 20,Mar 20,Gecko
+1990,Mar 21,Apr 19,Hammerhead Shark
+1990,Apr 20,May 20,Kangaroo
+1990,May 21,Jun 21,Great White Shark
+1990,Jun 22,Jul 21,Hermit Crab
+1990,Jul 22,Aug 22,Hyena
+1990,Aug 23,Sep 22,Giraffe
+1990,Sep 23,Oct 23,Goose
+1990,Oct 24,Nov 21,Dragonfly
+1990,Nov 22,Dec 21,Dove
+1990,Dec 22,Dec 31,Salmon
+1991,Jan 01,Jan 19,Salmon
+1991,Jan 20,Feb 14,Unicorn
+1991,Feb 15,Feb 19,Handfish
+1991,Feb 20,Mar 20,Leafy Seadragon
+1991,Mar 21,Apr 19,Catfish
+1991,Apr 20,May 20,Buffalo
+1991,May 21,Jun 21,Centipede
+1991,Jun 22,Jul 21,Duck
+1991,Jul 22,Aug 22,Swan
+1991,Aug 23,Sep 22,Flamingo
+1991,Sep 23,Oct 23,Clownfish
+1991,Oct 24,Nov 21,Panda
+1991,Nov 22,Dec 21,Tortoise
+1991,Dec 22,Dec 31,Mole
+1992,Jan 01,Jan 19,Mole
+1992,Jan 20,Feb 03,Handfish
+1992,Feb 04,Feb 19,Dolphin
+1992,Feb 20,Mar 20,Cheetah
+1992,Mar 21,Apr 19,Gorilla
+1992,Apr 20,May 20,Ostrich
+1992,May 21,Jun 21,Seal
+1992,Jun 22,Jul 21,Emperor Tamarin
+1992,Jul 22,Aug 22,Ferret
+1992,Aug 23,Sep 22,Penguin
+1992,Sep 23,Oct 23,Axolotl
+1992,Oct 24,Nov 21,Raven
+1992,Nov 22,Dec 21,Roadrunner
+1992,Dec 22,Dec 31,Woodpecker
+1993,Jan 01,Jan 19,Woodpecker
+1993,Jan 20,Jan 22,Dolphin
+1993,Jan 23,Feb 19,Bird-of-Paradise
+1993,Feb 20,Mar 20,Ocelot
+1993,Mar 21,Apr 19,Goldfinch
+1993,Apr 20,May 20,Beaver
+1993,May 21,Jun 21,Parrot
+1993,Jun 22,Jul 21,Iguana
+1993,Jul 22,Aug 22,Peacock
+1993,Aug 23,Sep 22,Corgi
+1993,Sep 23,Oct 23,Pelican
+1993,Oct 24,Nov 21,Owl
+1993,Nov 22,Dec 21,Swordfish
+1993,Dec 22,Dec 31,Bee
+1994,Jan 01,Jan 19,Bee
+1994,Jan 20,Feb 09,Bird-of-Paradise
+1994,Feb 10,Feb 19,Chameleon
+1994,Feb 20,Mar 20,Tarsier
+1994,Mar 21,Apr 19,Doberman Pinscher
+1994,Apr 20,May 20,Seagull
+1994,May 21,Jun 21,Deer
+1994,Jun 22,Jul 21,Pit Bull
+1994,Jul 22,Aug 22,Shih Tzu
+1994,Aug 23,Sep 22,Salamander
+1994,Sep 23,Oct 23,Crane
+1994,Oct 24,Nov 21,Octopus
+1994,Nov 22,Dec 21,Golden Retriever
+1994,Dec 22,Dec 31,Boxer
+1995,Jan 01,Jan 19,Boxer
+1995,Jan 20,Jan 30,Chameleon
+1995,Jan 31,Feb 19,Pufferfish
+1995,Feb 20,Mar 20,Zebra
+1995,Mar 21,Apr 19,Dodo
+1995,Apr 20,May 20,Wombat
+1995,May 21,Jun 21,Cricket
+1995,Jun 22,Jul 21,Lobster
+1995,Jul 22,Aug 22,Quetzal
+1995,Aug 23,Sep 22,Gazelle
+1995,Sep 23,Oct 23,Marmot
+1995,Oct 24,Nov 21,Squid
+1995,Nov 22,Dec 21,Camel
+1995,Dec 22,Dec 31,Spider
+1996,Jan 01,Jan 19,Spider
+1996,Jan 20,Feb 18,Pufferfish
+1996,Feb 19,Feb 19,Meerkat
+1996,Feb 20,Mar 20,Lemming
+1996,Mar 21,Apr 19,Piranha
+1996,Apr 20,May 20,Squirrel
+1996,May 21,Jun 21,Chipmunk
+1996,Jun 22,Jul 21,Seahorse
+1996,Jul 22,Aug 22,Otter
+1996,Aug 23,Sep 22,Mouse
+1996,Sep 23,Oct 23,Vulture
+1996,Oct 24,Nov 21,Anaconda
+1996,Nov 22,Dec 21,Skunk
+1996,Dec 22,Dec 31,Aardvark
+1997,Jan 01,Jan 19,Aardvark
+1997,Jan 20,Feb 06,Meerkat
+1997,Feb 07,Feb 19,Walrus
+1997,Feb 20,Mar 20,Moose
+1997,Mar 21,Apr 19,Hippopotamus
+1997,Apr 20,May 20,Yak
+1997,May 21,Jun 21,Coyote
+1997,Jun 22,Jul 21,Black Bear
+1997,Jul 22,Aug 22,Sun Bear
+1997,Aug 23,Sep 22,Sea Star
+1997,Sep 23,Oct 23,Elephant
+1997,Oct 24,Nov 21,Platypus
+1997,Nov 22,Dec 21,Raccoon
+1997,Dec 22,Dec 31,Ant
+1998,Jan 01,Jan 19,Ant
+1998,Jan 20,Jan 27,Walrus
+1998,Jan 28,Feb 19,Panther
+1998,Feb 20,Mar 20,Stingray
+1998,Mar 21,Apr 19,Rhinoceros
+1998,Apr 20,May 20,Wolf
+1998,May 21,Jun 21,Chimpanzee
+1998,Jun 22,Jul 21,Vampire Bat
+1998,Jul 22,Aug 22,Wolverine
+1998,Aug 23,Sep 22,Narwhal
+1998,Sep 23,Oct 23,Tasmanian Devil
+1998,Oct 24,Nov 21,Honey Badger
+1998,Nov 22,Dec 21,Mongoose
+1998,Dec 22,Dec 31,Komodo Dragon
+1999,Jan 01,Jan 19,Komodo Dragon
+1999,Jan 20,Feb 15,Panther
+1999,Feb 16,Feb 19,Sloth
+1999,Feb 20,Mar 20,Silkworm
+1999,Mar 21,Apr 19,Llama
+1999,Apr 20,May 20,Hedgehog
+1999,May 21,Jun 21,Toucan
+1999,Jun 22,Jul 21,Turtle
+1999,Jul 22,Aug 22,Angora Rabbit
+1999,Aug 23,Sep 22,Earthworm
+1999,Sep 23,Oct 23,Butterfly
+1999,Oct 24,Nov 21,Koala
+1999,Nov 22,Dec 21,Sugar Glider
+1999,Dec 22,Dec 31,Weaver Finch
+2000,Jan 01,Jan 19,Weaver Finch
+2000,Jan 20,Feb 04,Sloth
+2000,Feb 05,Feb 19,Leopard
+2000,Feb 20,Mar 20,Firefly
+2000,Mar 21,Apr 19,Tyrannosaurus Rex
+2000,Apr 20,May 20,Rattlesnake
+2000,May 21,Jun 21,Hummingbird
+2000,Jun 22,Jul 21,Hornet
+2000,Jul 22,Aug 22,Orca
+2000,Aug 23,Sep 22,Polar Bear
+2000,Sep 23,Oct 23,Porcupine
+2000,Oct 24,Nov 21,Jaguar
+2000,Nov 22,Dec 21,Whale
+2000,Dec 22,Dec 31,Eagle
+2001,Jan 01,Jan 19,Eagle
+2001,Jan 20,Jan 23,Leopard
+2001,Jan 24,Feb 19,Boa Constrictor
+2001,Feb 20,Mar 20,Frog
+2001,Mar 21,Apr 19,Praying Mantis
+2001,Apr 20,May 20,Jackal
+2001,May 21,Jun 21,Lemur
+2001,Jun 22,Jul 21,Snail
+2001,Jul 22,Aug 22,Fox
+2001,Aug 23,Sep 22,Jellyfish
+2001,Sep 23,Oct 23,Ladybug
+2001,Oct 24,Nov 21,Anglerfish
+2001,Nov 22,Dec 21,Tarantula
+2001,Dec 22,Dec 31,Alligator
+2002,Jan 01,Jan 19,Alligator
+2002,Jan 20,Feb 11,Boa Constrictor
+2002,Feb 12,Feb 19,Unicorn
+2002,Feb 20,Mar 20,Gecko
+2002,Mar 21,Apr 19,Hammerhead Shark
+2002,Apr 20,May 20,Kangaroo
+2002,May 21,Jun 21,Great White Shark
+2002,Jun 22,Jul 21,Hermit Crab
+2002,Jul 22,Aug 22,Hyena
+2002,Aug 23,Sep 22,Giraffe
+2002,Sep 23,Oct 23,Goose
+2002,Oct 24,Nov 21,Dragonfly
+2002,Nov 22,Dec 21,Dove
+2002,Dec 22,Dec 31,Salmon
+2003,Jan 01,Jan 19,Salmon
+2003,Jan 20,Jan 31,Unicorn
+2003,Feb 01,Feb 19,Handfish
+2003,Feb 20,Mar 20,Leafy Seadragon
+2003,Mar 21,Apr 19,Catfish
+2003,Apr 20,May 20,Buffalo
+2003,May 21,Jun 21,Centipede
+2003,Jun 22,Jul 21,Duck
+2003,Jul 22,Aug 22,Swan
+2003,Aug 23,Sep 22,Flamingo
+2003,Sep 23,Oct 23,Clownfish
+2003,Oct 24,Nov 21,Panda
+2003,Nov 22,Dec 21,Tortoise
+2003,Dec 22,Dec 31,Mole
+2004,Jan 01,Jan 19,Mole
+2004,Jan 20,Jan 21,Handfish
+2004,Jan 22,Feb 19,Dolphin
+2004,Feb 20,Mar 20,Cheetah
+2004,Mar 21,Apr 19,Gorilla
+2004,Apr 20,May 20,Ostrich
+2004,May 21,Jun 21,Seal
+2004,Jun 22,Jul 21,Emperor Tamarin
+2004,Jul 22,Aug 22,Ferret
+2004,Aug 23,Sep 22,Penguin
+2004,Sep 23,Oct 23,Axolotl
+2004,Oct 24,Nov 21,Raven
+2004,Nov 22,Dec 21,Roadrunner
+2004,Dec 22,Dec 31,Woodpecker
+2005,Jan 01,Jan 19,Woodpecker
+2005,Jan 20,Feb 08,Dolphin
+2005,Feb 09,Feb 19,Bird-of-Paradise
+2005,Feb 20,Mar 20,Ocelot
+2005,Mar 21,Apr 19,Goldfinch
+2005,Apr 20,May 20,Beaver
+2005,May 21,Jun 21,Parrot
+2005,Jun 22,Jul 21,Iguana
+2005,Jul 22,Aug 22,Peacock
+2005,Aug 23,Sep 22,Corgi
+2005,Sep 23,Oct 23,Pelican
+2005,Oct 24,Nov 21,Owl
+2005,Nov 22,Dec 21,Swordfish
+2005,Dec 22,Dec 31,Bee
+2006,Jan 01,Jan 19,Bee
+2006,Jan 20,Jan 28,Bird-of-Paradise
+2006,Jan 29,Feb 19,Chameleon
+2006,Feb 20,Mar 20,Tarsier
+2006,Mar 21,Apr 19,Doberman Pinscher
+2006,Apr 20,May 20,Seagull
+2006,May 21,Jun 21,Deer
+2006,Jun 22,Jul 21,Pit Bull
+2006,Jul 22,Aug 22,Shih Tzu
+2006,Aug 23,Sep 22,Salamander
+2006,Sep 23,Oct 23,Crane
+2006,Oct 24,Nov 21,Octopus
+2006,Nov 22,Dec 21,Golden Retriever
+2006,Dec 22,Dec 31,Boxer
+2007,Jan 01,Jan 19,Boxer
+2007,Jan 20,Feb 17,Chameleon
+2007,Feb 18,Feb 19,Pufferfish
+2007,Feb 20,Mar 20,Zebra
+2007,Mar 21,Apr 19,Dodo
+2007,Apr 20,May 20,Wombat
+2007,May 21,Jun 21,Cricket
+2007,Jun 22,Jul 21,Lobster
+2007,Jul 22,Aug 22,Quetzal
+2007,Aug 23,Sep 22,Gazelle
+2007,Sep 23,Oct 23,Marmot
+2007,Oct 24,Nov 21,Squid
+2007,Nov 22,Dec 21,Camel
+2007,Dec 22,Dec 31,Spider
+2008,Jan 01,Jan 19,Spider
+2008,Jan 20,Feb 06,Pufferfish
+2008,Feb 07,Feb 19,Meerkat
+2008,Feb 20,Mar 20,Lemming
+2008,Mar 21,Apr 19,Piranha
+2008,Apr 20,May 20,Squirrel
+2008,May 21,Jun 21,Chipmunk
+2008,Jun 22,Jul 21,Seahorse
+2008,Jul 22,Aug 22,Otter
+2008,Aug 23,Sep 22,Mouse
+2008,Sep 23,Oct 23,Vulture
+2008,Oct 24,Nov 21,Anaconda
+2008,Nov 22,Dec 21,Skunk
+2008,Dec 22,Dec 31,Aardvark
+Year,Start Date,End Date,Primal Sign
+2009,Jan 01,Jan 19,Aardvark
+2009,Jan 20,Jan 25,Meerkat
+2009,Jan 26,Feb 19,Walrus
+2009,Feb 20,Mar 20,Moose
+2009,Mar 21,Apr 19,Hippopotamus
+2009,Apr 20,May 20,Yak
+2009,May 21,Jun 21,Coyote
+2009,Jun 22,Jul 21,Black Bear
+2009,Jul 22,Aug 22,Sun Bear
+2009,Aug 23,Sep 22,Sea Star
+2009,Sep 23,Oct 23,Elephant
+2009,Oct 24,Nov 21,Platypus
+2009,Nov 22,Dec 21,Raccoon
+2009,Dec 22,Dec 31,Ant
+2010,Jan 01,Jan 19,Ant
+2010,Jan 20,Feb 13,Walrus
+2010,Feb 14,Feb 19,Panther
+2010,Feb 20,Mar 20,Stingray
+2010,Mar 21,Apr 19,Rhinoceros
+2010,Apr 20,May 20,Wolf
+2010,May 21,Jun 21,Chimpanzee
+2010,Jun 22,Jul 21,Vampire Bat
+2010,Jul 22,Aug 22,Wolverine
+2010,Aug 23,Sep 22,Narwhal
+2010,Sep 23,Oct 23,Tasmanian Devil
+2010,Oct 24,Nov 21,Honey Badger
+2010,Nov 22,Dec 21,Mongoose
+2010,Dec 22,Dec 31,Komodo Dragon
+2011,Jan 01,Jan 19,Komodo Dragon
+2011,Jan 20,Feb 02,Panther
+2011,Feb 03,Feb 19,Sloth
+2011,Feb 20,Mar 20,Silkworm
+2011,Mar 21,Apr 19,Llama
+2011,Apr 20,May 20,Hedgehog
+2011,May 21,Jun 21,Toucan
+2011,Jun 22,Jul 21,Turtle
+2011,Jul 22,Aug 22,Angora Rabbit
+2011,Aug 23,Sep 22,Earthworm
+2011,Sep 23,Oct 23,Butterfly
+2011,Oct 24,Nov 21,Koala
+2011,Nov 22,Dec 21,Sugar Glider
+2011,Dec 22,Dec 31,Weaver Finch
+2012,Jan 01,Jan 19,Weaver Finch
+2012,Jan 20,Jan 22,Sloth
+2012,Jan 23,Feb 19,Leopard
+2012,Feb 20,Mar 20,Firefly
+2012,Mar 21,Apr 19,Tyrannosaurus Rex
+2012,Apr 20,May 20,Rattlesnake
+2012,May 21,Jun 21,Hummingbird
+2012,Jun 22,Jul 21,Hornet
+2012,Jul 22,Aug 22,Orca
+2012,Aug 23,Sep 22,Polar Bear
+2012,Sep 23,Oct 23,Porcupine
+2012,Oct 24,Nov 21,Jaguar
+2012,Nov 22,Dec 21,Whale
+2012,Dec 22,Dec 31,Eagle
+2013,Jan 01,Jan 19,Eagle
+2013,Jan 20,Feb 09,Leopard
+2013,Feb 10,Feb 19,Boa Constrictor
+2013,Feb 20,Mar 20,Frog
+2013,Mar 21,Apr 19,Praying Mantis
+2013,Apr 20,May 20,Jackal
+2013,May 21,Jun 21,Lemur
+2013,Jun 22,Jul 21,Snail
+2013,Jul 22,Aug 22,Fox
+2013,Aug 23,Sep 22,Jellyfish
+2013,Sep 23,Oct 23,Ladybug
+2013,Oct 24,Nov 21,Anglerfish
+2013,Nov 22,Dec 21,Tarantula
+2013,Dec 22,Dec 31,Alligator
+2014,Jan 01,Jan 19,Alligator
+2014,Jan 20,Jan 30,Boa Constrictor
+2014,Jan 31,Feb 19,Unicorn
+2014,Feb 20,Mar 20,Gecko
+2014,Mar 21,Apr 19,Hammerhead Shark
+2014,Apr 20,May 20,Kangaroo
+2014,May 21,Jun 21,Great White Shark
+2014,Jun 22,Jul 21,Hermit Crab
+2014,Jul 22,Aug 22,Hyena
+2014,Aug 23,Sep 22,Giraffe
+2014,Sep 23,Oct 23,Goose
+2014,Oct 24,Nov 21,Dragonfly
+2014,Nov 22,Dec 21,Dove
+2014,Dec 22,Dec 31,Salmon
+2015,Jan 01,Jan 19,Salmon
+2015,Jan 20,Feb 18,Unicorn
+2015,Feb 19,Feb 19,Handfish
+2015,Feb 20,Mar 20,Leafy Seadragon
+2015,Mar 21,Apr 19,Catfish
+2015,Apr 20,May 20,Buffalo
+2015,May 21,Jun 21,Centipede
+2015,Jun 22,Jul 21,Duck
+2015,Jul 22,Aug 22,Swan
+2015,Aug 23,Sep 22,Flamingo
+2015,Sep 23,Oct 23,Clownfish
+2015,Oct 24,Nov 21,Panda
+2015,Nov 22,Dec 21,Tortoise
+2015,Dec 22,Dec 31,Mole
+2016,Jan 01,Jan 19,Mole
+2016,Jan 20,Feb 07,Handfish
+2016,Feb 08,Feb 19,Dolphin
+2016,Feb 20,Mar 20,Cheetah
+2016,Mar 21,Apr 19,Gorilla
+2016,Apr 20,May 20,Ostrich
+2016,May 21,Jun 21,Seal
+2016,Jun 22,Jul 21,Emperor Tamarin
+2016,Jul 22,Aug 22,Ferret
+2016,Aug 23,Sep 22,Penguin
+2016,Sep 23,Oct 23,Axolotl
+2016,Oct 24,Nov 21,Raven
+2016,Nov 22,Dec 21,Roadrunner
+2016,Dec 22,Dec 31,Woodpecker
+2017,Jan 01,Jan 19,Woodpecker
+2017,Jan 20,Jan 27,Dolphin
+2017,Jan 28,Feb 19,Bird-of-Paradise
+2017,Feb 20,Mar 20,Ocelot
+2017,Mar 21,Apr 19,Goldfinch
+2017,Apr 20,May 20,Beaver
+2017,May 21,Jun 21,Parrot
+2017,Jun 22,Jul 21,Iguana
+2017,Jul 22,Aug 22,Peacock
+2017,Aug 23,Sep 22,Corgi
+2017,Sep 23,Oct 23,Pelican
+2017,Oct 24,Nov 21,Owl
+2017,Nov 22,Dec 21,Swordfish
+2017,Dec 22,Dec 31,Bee
+2018,Jan 01,Jan 19,Bee
+2018,Jan 20,Feb 18,Bird-of-Paradise
+2018,Feb 19,Feb 19,Chameleon
+2018,Feb 20,Mar 20,Tarsier
+2018,Mar 21,Apr 19,Doberman Pinscher
+2018,Apr 20,May 20,Seagull
+2018,May 21,Jun 21,Deer
+2018,Jun 22,Jul 21,Pit Bull
+2018,Jul 22,Aug 22,Shih Tzu
+2018,Aug 23,Sep 22,Salamander
+2018,Sep 23,Oct 23,Crane
+2018,Oct 24,Nov 21,Octopus
+2018,Nov 22,Dec 21,Golden Retriever
+2018,Dec 22,Dec 31,Boxer
+2019,Jan 01,Jan 19,Boxer
+2019,Jan 20,Feb 04,Chameleon
+2019,Feb 05,Feb 19,Pufferfish
+2019,Feb 20,Mar 20,Zebra
+2019,Mar 21,Apr 19,Dodo
+2019,Apr 20,May 20,Wombat
+2019,May 21,Jun 21,Cricket
+2019,Jun 22,Jul 21,Lobster
+2019,Jul 22,Aug 22,Quetzal
+2019,Aug 23,Sep 22,Gazelle
+2019,Sep 23,Oct 23,Marmot
+2019,Oct 24,Nov 21,Squid
+2019,Nov 22,Dec 21,Camel
+2019,Dec 22,Dec 31,Spider
+2020,Jan 01,Jan 19,Spider
+2020,Jan 20,Jan 24,Pufferfish
+2020,Jan 25,Feb 19,Meerkat
+2020,Feb 20,Mar 20,Lemming
+2020,Mar 21,Apr 19,Piranha
+2020,Apr 20,May 20,Squirrel
+2020,May 21,Jun 21,Chipmunk
+2020,Jun 22,Jul 21,Seahorse
+2020,Jul 22,Aug 22,Otter
+2020,Aug 23,Sep 22,Mouse
+2020,Sep 23,Oct 23,Vulture
+2020,Oct 24,Nov 21,Anaconda
+2020,Nov 22,Dec 21,Skunk
+2020,Dec 22,Dec 31,Aardvark
+2021,Jan 01,Jan 19,Aardvark
+2021,Jan 20,Feb 11,Meerkat
+2021,Feb 12,Feb 19,Walrus
+2021,Feb 20,Mar 20,Moose
+2021,Mar 21,Apr 19,Hippopotamus
+2021,Apr 20,May 20,Yak
+2021,May 21,Jun 21,Coyote
+2021,Jun 22,Jul 21,Black Bear
+2021,Jul 22,Aug 22,Sun Bear
+2021,Aug 23,Sep 22,Sea Star
+2021,Sep 23,Oct 23,Elephant
+2021,Oct 24,Nov 21,Platypus
+2021,Nov 22,Dec 21,Raccoon
+2021,Dec 22,Dec 31,Ant
+2022,Jan 01,Jan 19,Ant
+2022,Jan 20,Jan 31,Walrus
+2022,Feb 01,Feb 19,Panther
+2022,Feb 20,Mar 20,Stingray
+2022,Mar 21,Apr 19,Rhinoceros
+2022,Apr 20,May 20,Wolf
+2022,May 21,Jun 21,Chimpanzee
+2022,Jun 22,Jul 21,Vampire Bat
+2022,Jul 22,Aug 22,Wolverine
+2022,Aug 23,Sep 22,Narwhal
+2022,Sep 23,Oct 23,Tasmanian Devil
+2022,Oct 24,Nov 21,Honey Badger
+2022,Nov 22,Dec 21,Mongoose
+2022,Dec 22,Dec 31,Komodo Dragon
+2023,Jan 01,Jan 19,Komodo Dragon
+2023,Jan 20,Jan 21,Panther
+2023,Jan 22,Feb 19,Sloth
+2023,Feb 20,Mar 20,Silkworm
+2023,Mar 21,Apr 19,Llama
+2023,Apr 20,May 20,Hedgehog
+2023,May 21,Jun 21,Toucan
+2023,Jun 22,Jul 21,Turtle
+2023,Jul 22,Aug 22,Angora Rabbit
+2023,Aug 23,Sep 22,Earthworm
+2023,Sep 23,Oct 23,Butterfly
+2023,Oct 24,Nov 21,Koala
+2023,Nov 22,Dec 21,Sugar Glider
+2023,Dec 22,Dec 31,Weaver Finch
+2024,Jan 01,Jan 19,Weaver Finch
+2024,Jan 20,Feb 09,Sloth
+2024,Feb 10,Feb 19,Leopard
+2024,Feb 20,Mar 20,Firefly
+2024,Mar 21,Apr 19,Tyrannosaurus Rex
+2024,Apr 20,May 20,Rattlesnake
+2024,May 21,Jun 21,Hummingbird
+2024,Jun 22,Jul 21,Hornet
+2024,Jul 22,Aug 22,Orca
+2024,Aug 23,Sep 22,Polar Bear
+2024,Sep 23,Oct 23,Porcupine
+2024,Oct 24,Nov 21,Jaguar
+2024,Nov 22,Dec 21,Whale
+2024,Dec 22,Dec 31,Eagle
+2025,Jan 01,Jan 19,Eagle
+2025,Jan 20,Jan 28,Leopard
+2025,Jan 29,Feb 19,Boa Constrictor
+2025,Feb 20,Mar 20,Frog
+2025,Mar 21,Apr 19,Praying Mantis
+2025,Apr 20,May 20,Jackal
+2025,May 21,Jun 21,Lemur
+2025,Jun 22,Jul 21,Snail
+2025,Jul 22,Aug 22,Fox
+2025,Aug 23,Sep 22,Jellyfish
+2025,Sep 23,Oct 23,Ladybug
+2025,Oct 24,Nov 21,Anglerfish
+2025,Nov 22,Dec 21,Tarantula
+2025,Dec 22,Dec 31,Alligator
+2026,Jan 01,Jan 19,Alligator
+2026,Jan 20,Feb 16,Boa Constrictor
+2026,Feb 17,Feb 19,Unicorn
+2026,Feb 20,Mar 20,Gecko
+2026,Mar 21,Apr 19,Hammerhead Shark
+2026,Apr 20,May 20,Kangaroo
+2026,May 21,Jun 21,Great White Shark
+2026,Jun 22,Jul 21,Hermit Crab
+2026,Jul 22,Aug 22,Hyena
+2026,Aug 23,Sep 22,Giraffe
+2026,Sep 23,Oct 23,Goose
+2026,Oct 24,Nov 21,Dragonfly
+2026,Nov 22,Dec 21,Dove
+2026,Dec 22,Dec 31,Salmon
+2027,Jan 01,Jan 19,Salmon
+2027,Jan 20,Feb 05,Unicorn
+2027,Feb 06,Feb 19,Handfish
+2027,Feb 20,Mar 20,Leafy Seadragon
+2027,Mar 21,Apr 19,Catfish
+2027,Apr 20,May 20,Buffalo
+2027,May 21,Jun 21,Centipede
+2027,Jun 22,Jul 21,Duck
+2027,Jul 22,Aug 22,Swan
+2027,Aug 23,Sep 22,Flamingo
+2027,Sep 23,Oct 23,Clownfish
+2027,Oct 24,Nov 21,Panda
+2027,Nov 22,Dec 21,Tortoise
+2027,Dec 22,Dec 31,Mole
+2028,Jan 01,Jan 19,Mole
+2028,Jan 20,Jan 25,Handfish
+2028,Jan 26,Feb 19,Dolphin
+2028,Feb 20,Mar 20,Cheetah
+2028,Mar 21,Apr 19,Gorilla
+2028,Apr 20,May 20,Ostrich
+2028,May 21,Jun 21,Seal
+2028,Jun 22,Jul 21,Emperor Tamarin
+2028,Jul 22,Aug 22,Ferret
+2028,Aug 23,Sep 22,Penguin
+2028,Sep 23,Oct 23,Axolotl
+2028,Oct 24,Nov 21,Raven
+2028,Nov 22,Dec 21,Roadrunner
+2028,Dec 22,Dec 31,Woodpecker
+2029,Jan 01,Jan 19,Woodpecker
+2029,Jan 20,Feb 12,Dolphin
+2029,Feb 13,Feb 19,Bird-of-Paradise
+2029,Feb 20,Mar 20,Ocelot
+2029,Mar 21,Apr 19,Goldfinch
+2029,Apr 20,May 20,Beaver
+2029,May 21,Jun 21,Parrot
+2029,Jun 22,Jul 21,Iguana
+2029,Jul 22,Aug 22,Peacock
+2029,Aug 23,Sep 22,Corgi
+2029,Sep 23,Oct 23,Pelican
+2029,Oct 24,Nov 21,Owl
+2029,Nov 22,Dec 21,Swordfish
+2029,Dec 22,Dec 31,Bee
+2030,Jan 01,Jan 19,Bee
+2030,Jan 20,Feb 02,Bird-of-Paradise
+2030,Feb 03,Feb 19,Chameleon
+2030,Feb 20,Mar 20,Tarsier
+2030,Mar 21,Apr 19,Doberman Pinscher
+2030,Apr 20,May 20,Seagull
+2030,May 21,Jun 21,Deer
+2030,Jun 22,Jul 21,Pit Bull
+2030,Jul 22,Aug 22,Shih Tzu
+2030,Aug 23,Sep 22,Salamander
+2030,Sep 23,Oct 23,Crane
+2030,Oct 24,Nov 21,Octopus
+2030,Nov 22,Dec 21,Golden Retriever
+2030,Dec 22,Dec 31,Boxer
+2031,Jan 01,Jan 19,Boxer
+2031,Jan 20,Jan 22,Chameleon
+2031,Jan 23,Feb 19,Pufferfish
+2031,Feb 20,Mar 20,Zebra
+2031,Mar 21,Apr 19,Dodo
+2031,Apr 20,May 20,Wombat
+2031,May 21,Jun 21,Cricket
+2031,Jun 22,Jul 21,Lobster
+2031,Jul 22,Aug 22,Quetzal
+2031,Aug 23,Sep 22,Gazelle
+2031,Sep 23,Oct 23,Marmot
+2031,Oct 24,Nov 21,Squid
+2031,Nov 22,Dec 21,Camel
+2031,Dec 22,Dec 31,Spider
+2032,Jan 01,Jan 19,Spider
+2032,Jan 20,Feb 10,Pufferfish
+2032,Feb 11,Feb 19,Meerkat
+2032,Feb 20,Mar 20,Lemming
+2032,Mar 21,Apr 19,Piranha
+2032,Apr 20,May 20,Squirrel
+2032,May 21,Jun 21,Chipmunk
+2032,Jun 22,Jul 21,Seahorse
+2032,Jul 22,Aug 22,Otter
+2032,Aug 23,Sep 22,Mouse
+2032,Sep 23,Oct 23,Vulture
+2032,Oct 24,Nov 21,Anaconda
+2032,Nov 22,Dec 21,Skunk
+2032,Dec 22,Dec 31,Aardvark
+2033,Jan 01,Jan 19,Aardvark
+2033,Jan 20,Jan 30,Meerkat
+2033,Jan 31,Feb 19,Walrus
+2033,Feb 20,Mar 20,Moose
+2033,Mar 21,Apr 19,Hippopotamus
+2033,Apr 20,May 20,Yak
+2033,May 21,Jun 21,Coyote
+2033,Jun 22,Jul 21,Black Bear
+2033,Jul 22,Aug 22,Sun Bear
+2033,Aug 23,Sep 22,Sea Star
+2033,Sep 23,Oct 23,Elephant
+2033,Oct 24,Nov 21,Platypus
+2033,Nov 22,Dec 21,Raccoon
+2033,Dec 22,Dec 31,Ant
+2034,Jan 01,Jan 19,Ant
+2034,Jan 20,Feb 18,Walrus
+2034,Feb 19,Feb 19,Panther
+2034,Feb 20,Mar 20,Stingray
+2034,Mar 21,Apr 19,Rhinoceros
+2034,Apr 20,May 20,Wolf
+2034,May 21,Jun 21,Chimpanzee
+2034,Jun 22,Jul 21,Vampire Bat
+2034,Jul 22,Aug 22,Wolverine
+2034,Aug 23,Sep 22,Narwhal
+2034,Sep 23,Oct 23,Tasmanian Devil
+2034,Oct 24,Nov 21,Honey Badger
+2034,Nov 22,Dec 21,Mongoose
+2034,Dec 22,Dec 31,Komodo Dragon
+2035,Jan 01,Jan 19,Komodo Dragon
+2035,Jan 20,Feb 07,Panther
+2035,Feb 08,Feb 19,Sloth
+2035,Feb 20,Mar 20,Silkworm
+2035,Mar 21,Apr 19,Llama
+2035,Apr 20,May 20,Hedgehog
+2035,May 21,Jun 21,Toucan
+2035,Jun 22,Jul 21,Turtle
+2035,Jul 22,Aug 22,Angora Rabbit
+2035,Aug 23,Sep 22,Earthworm
+2035,Sep 23,Oct 23,Butterfly
+2035,Oct 24,Nov 21,Koala
+2035,Nov 22,Dec 21,Sugar Glider
+2035,Dec 22,Dec 31,Weaver Finch
+2036,Jan 01,Jan 19,Weaver Finch
+2036,Jan 20,Jan 27,Sloth
+2036,Jan 28,Feb 19,Leopard
+2036,Feb 20,Mar 20,Firefly
+2036,Mar 21,Apr 19,Tyrannosaurus Rex
+2036,Apr 20,May 20,Rattlesnake
+2036,May 21,Jun 21,Hummingbird
+2036,Jun 22,Jul 21,Hornet
+2036,Jul 22,Aug 22,Orca
+2036,Aug 23,Sep 22,Polar Bear
+2036,Sep 23,Oct 23,Porcupine
+2036,Oct 24,Nov 21,Jaguar
+2036,Nov 22,Dec 21,Whale
+2036,Dec 22,Dec 31,Eagle
+2037,Jan 01,Jan 19,Eagle
+2037,Jan 20,Feb 14,Leopard
+2037,Feb 15,Feb 19,Boa Constrictor
+2037,Feb 20,Mar 20,Frog
+2037,Mar 21,Apr 19,Praying Mantis
+2037,Apr 20,May 20,Jackal
+2037,May 21,Jun 21,Lemur
+2037,Jun 22,Jul 21,Snail
+2037,Jul 22,Aug 22,Fox
+2037,Aug 23,Sep 22,Jellyfish
+2037,Sep 23,Oct 23,Ladybug
+2037,Oct 24,Nov 21,Anglerfish
+2037,Nov 22,Dec 21,Tarantula
+2037,Dec 22,Dec 31,Alligator
+2038,Jan 01,Jan 19,Alligator
+2038,Jan 20,Feb 03,Boa Constrictor
+2038,Feb 04,Feb 19,Unicorn
+2038,Feb 20,Mar 20,Gecko
+2038,Mar 21,Apr 19,Hammerhead Shark
+2038,Apr 20,May 20,Kangaroo
+2038,May 21,Jun 21,Great White Shark
+2038,Jun 22,Jul 21,Hermit Crab
+2038,Jul 22,Aug 22,Hyena
+2038,Aug 23,Sep 22,Giraffe
+2038,Sep 23,Oct 23,Goose
+2038,Oct 24,Nov 21,Dragonfly
+2038,Nov 22,Dec 21,Dove
+2038,Dec 22,Dec 31,Salmon
+2039,Jan 01,Jan 19,Salmon
+2039,Jan 20,Jan 23,Unicorn
+2039,Jan 24,Feb 19,Handfish
+2039,Feb 20,Mar 20,Leafy Seadragon
+2039,Mar 21,Apr 19,Catfish
+2039,Apr 20,May 20,Buffalo
+2039,May 21,Jun 21,Centipede
+2039,Jun 22,Jul 21,Duck
+2039,Jul 22,Aug 22,Swan
+2039,Aug 23,Sep 22,Flamingo
+2039,Sep 23,Oct 23,Clownfish
+2039,Oct 24,Nov 21,Panda
+2039,Nov 22,Dec 21,Tortoise
+2039,Dec 22,Dec 31,Mole
+2040,Jan 01,Jan 19,Mole
+2040,Jan 20,Feb 11,Handfish
+2040,Feb 12,Feb 19,Dolphin
+2040,Feb 20,Mar 20,Cheetah
+2040,Mar 21,Apr 19,Gorilla
+2040,Apr 20,May 20,Ostrich
+2040,May 21,Jun 21,Seal
+2040,Jun 22,Jul 21,Emperor Tamarin
+2040,Jul 22,Aug 22,Ferret
+2040,Aug 23,Sep 22,Penguin
+2040,Sep 23,Oct 23,Axolotl
+2040,Oct 24,Nov 21,Raven
+2040,Nov 22,Dec 21,Roadrunner
+2040,Dec 22,Dec 31,Woodpecker
+2041,Jan 01,Jan 19,Woodpecker
+2041,Jan 20,Jan 31,Dolphin
+2041,Feb 01,Feb 19,Bird-of-Paradise
+2041,Feb 20,Mar 20,Ocelot
+2041,Mar 21,Apr 19,Goldfinch
+2041,Apr 20,May 20,Beaver
+2041,May 21,Jun 21,Parrot
+2041,Jun 22,Jul 21,Iguana
+2041,Jul 22,Aug 22,Peacock
+2041,Aug 23,Sep 22,Corgi
+2041,Sep 23,Oct 23,Pelican
+2041,Oct 24,Nov 21,Owl
+2041,Nov 22,Dec 21,Swordfish
+2041,Dec 22,Dec 31,Bee
+2042,Jan 01,Jan 19,Bee
+2042,Jan 20,Jan 21,Bird-of-Paradise
+2042,Jan 22,Feb 19,Chameleon
+2042,Feb 20,Mar 20,Tarsier
+2042,Mar 21,Apr 19,Doberman Pinscher
+2042,Apr 20,May 20,Seagull
+2042,May 21,Jun 21,Deer
+2042,Jun 22,Jul 21,Pit Bull
+2042,Jul 22,Aug 22,Shih Tzu
+2042,Aug 23,Sep 22,Salamander
+2042,Sep 23,Oct 23,Crane
+2042,Oct 24,Nov 21,Octopus
+2042,Nov 22,Dec 21,Golden Retriever
+2042,Dec 22,Dec 31,Boxer
+2043,Jan 01,Jan 19,Boxer
+2043,Jan 20,Feb 09,Chameleon
+2043,Feb 10,Feb 19,Pufferfish
+2043,Feb 20,Mar 20,Zebra
+2043,Mar 21,Apr 19,Dodo
+2043,Apr 20,May 20,Wombat
+2043,May 21,Jun 21,Cricket
+2043,Jun 22,Jul 21,Lobster
+2043,Jul 22,Aug 22,Quetzal
+2043,Aug 23,Sep 22,Gazelle
+2043,Sep 23,Oct 23,Marmot
+2043,Oct 24,Nov 21,Squid
+2043,Nov 22,Dec 21,Camel
+2043,Dec 22,Dec 31,Spider
+2044,Jan 01,Jan 19,Spider
+2044,Jan 20,Jan 29,Pufferfish
+2044,Jan 30,Feb 19,Meerkat
+2044,Feb 20,Mar 20,Lemming
+2044,Mar 21,Apr 19,Piranha
+2044,Apr 20,May 20,Squirrel
+2044,May 21,Jun 21,Chipmunk
+2044,Jun 22,Jul 21,Seahorse
+2044,Jul 22,Aug 22,Otter
+2044,Aug 23,Sep 22,Mouse
+2044,Sep 23,Oct 23,Vulture
+2044,Oct 24,Nov 21,Anaconda
+2044,Nov 22,Dec 21,Skunk
+2044,Dec 22,Dec 31,Aardvark
